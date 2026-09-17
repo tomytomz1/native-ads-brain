@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.webshare
+course/raw/*
+!course/raw/README.md

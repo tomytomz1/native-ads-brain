@@ -1,0 +1,266 @@
+Title: My Affiliate Marketing Tech-Stack Revealed!
+URL: https://www.youtube.com/watch?v=AyxI57OJVD4
+Video ID: AyxI57OJVD4
+Language: en
+Caption type: auto-generated
+
+---
+
+0:00 hi guys Tom Bell here from revenue
+0:02 tactics your dedicated affiliate
+0:04 marketing Academy and today I'm going to
+0:05 be answering one of the questions that I
+0:07 get emailed all the time actually from
+0:09 aspiring affiliate marketers what types
+0:11 of softwares and tools do I need to
+0:13 start my affiliate business and what do
+0:15 you use Tom so as much as I enjoy
+0:17 hearing from you guys I thought why not
+0:18 make a video on this and answer all
+0:20 those questions once and for all so
+0:22 before you get settled in guys if you
+0:24 like what I'm doing here don't forget to
+0:25 like And subscribe I really want to grow
+0:27 the channel a lot more this year and
+0:28 keep bringing you as much content
+0:29 content as I can now when I was a newb
+0:32 affiliate marketing many years ago and
+0:33 trying to make my mark on the industry I
+0:35 remember feeling a little bit
+0:36 overwhelmed almost by the sheare amount
+0:38 of softwares that were out there for
+0:40 affiliate marketing and I wasn't sure
+0:41 about which direction to turn and to be
+0:43 honest that was a little while ago now
+0:45 and the tech side of the industry has
+0:46 been expanding rapidly since then so
+0:48 there's even more choice now so if you
+0:50 are feeling a little bit daunted by that
+0:52 I'd be feeling exactly the same way as
+0:54 well in your position now the good news
+0:56 is although there's tons of weird and
+0:58 wonderful software out there the only a
+1:00 few tools that you really need in my
+1:01 opinion so I'm going to go for exactly
+1:03 what they are and what I use as I'm
+1:05 giving you these answers I'm also going
+1:07 to assume that you looking to run paid
+1:08 traffic which is what most top
+1:09 Affiliates are prioritizing these days
+1:12 so the first tool that is an absolute
+1:14 must in any media buyers Arsenal is a
+1:16 good solid tracker you need to be able
+1:17 to closely track the elements in your
+1:19 campaign that are working and that
+1:20 aren't working I talk a lot on the
+1:22 channel about split testing different
+1:23 ads different landing pages and maybe
+1:25 different offers potentially as well
+1:26 even within just one campaign and if you
+1:28 test widely in it of what you're see is
+1:30 Those ads those landing pages are going
+1:31 to convert extremely differently now
+1:33 I've got a ton of data that I could show
+1:35 you where I've just changed a single
+1:36 image on the landing page and that's to
+1:38 increase the ROI by 50% or more on some
+1:41 occasions if you're not tracking data in
+1:43 this way not only are you less likely to
+1:44 find a winning campaign because it would
+1:46 be more difficult for you to run
+1:47 profitably you'll actually be leaving a
+1:49 lot of additional money on the table as
+1:51 well when it comes to scaling and
+1:52 optimizing at deeper level further down
+1:54 the line so which tracker should you use
+1:56 well I can tell you that I've tried
+1:57 pretty much all of them over the years
+1:59 so I was doing a lot of Pop traffic a
+2:01 decade ago I was using Prosper 202 then
+2:03 moved to cpv Labs I've used red track
+2:05 I've used click magic all great products
+2:07 no doubt about that but since this video
+2:09 is about my text act today I can tell
+2:11 you that the only external tracker that
+2:13 I'm using right now is volume they're
+2:15 absolutely fantastic the interface is
+2:17 really clean it's really easy to use the
+2:18 Design's great and the loading speed of
+2:20 your redirect links that you'll put into
+2:22 your campaigns are extremely fast which
+2:23 is vital so I'm going to pop a link in
+2:25 the description below for volume they
+2:27 were actually able to come up with a
+2:28 little deal for you guys my sub
+2:29 subscribers where you get $6,000 of AD
+2:32 spend for free in their automizer
+2:33 facility which is where you can pass all
+2:35 of your cost data from your traffic
+2:36 Source VI your API back to the tracker
+2:39 so you can see everything in one place
+2:40 so if you want to take advantage of that
+2:42 great deal in the link below then I'd
+2:43 recommend going for the profit plan and
+2:45 that will be suitable for 99% of the
+2:47 businesses watching this video but
+2:49 regardless of which tracker you're
+2:50 currently using or aspects you're
+2:51 looking for in your research process
+2:53 you're still in that phase it needs to
+2:55 redirect your links quickly and it needs
+2:57 the ability to create multicolumn
+2:58 reports so you can look at your data
+3:00 effectively and it also needs to have at
+3:01 least a basic level of API integration
+3:04 between your affiliate Network or your
+3:05 traffic Source the next go to my
+3:07 techstack is a landing page builder so
+3:09 if you're not familiar with the
+3:10 traditional affiliate marketing approach
+3:12 in a campaign instead of sending traffic
+3:14 directly from an ad straight through to
+3:15 the offer that's called a direct link
+3:17 you want to direct that traffic from an
+3:19 ads to a basic web page or landing page
+3:21 first that's designed to warm up the
+3:23 user and pre- sell them on whatever that
+3:24 next step is it could be an e-commerce
+3:27 type of offer or it could be a ClickBank
+3:28 via sale type of offer I talk about a
+3:30 lot on the channel so whatever the types
+3:32 of offers you are promoting it doesn't
+3:33 matter what is important is that you
+3:35 have a way of creating these pre-sale
+3:37 landing pages that allows you to get up
+3:38 and running quickly successful
+3:40 Affiliates don't wait around to do
+3:41 things they don't go away and reflect on
+3:43 which offer to run for weeks on end they
+3:45 just get on with it and do it now for me
+3:47 personally I can build a basic WordPress
+3:49 website but I'm absolutely not a web
+3:51 developer in any way shape or form I can
+3:54 barely write any code at all actually
+3:55 and the good news is that you don't need
+3:57 to be able to do any of that either
+3:58 there's so many dragon drop landing page
+4:00 facilities that are out there these days
+4:02 it's really just not a skill that's
+4:03 necessary for Affiliates to be able to
+4:04 do for themselves these days there might
+4:06 be the odd situation where I hire a
+4:08 developer to code something custom for
+4:09 me but had a very complicated funnel but
+4:11 honestly 9.9 times out of 10 I'm using a
+4:14 page building facility pretty much every
+4:15 single time for my campaigns and the
+4:17 page builder that I love to use is
+4:19 convert and the reason I use convert is
+4:21 because of one single word in particular
+4:23 speed now there's lots of amazing
+4:26 landing pages Builders out there for
+4:27 sure I'm sure you've heard of
+4:28 clickfunnels there's Lander lab the
+4:30 system.io but convert is the fastest
+4:33 landing page builder out there and
+4:34 that's why I use it the load and speed
+4:36 of your landing pages in an affiliate
+4:37 campaign is almost as important as what
+4:39 you put in them Amazon performed a study
+4:41 10 years ago where they discovered that
+4:42 for every 100 milliseconds of delay in
+4:44 loading times they had a drop of 1% in
+4:47 conversions that's huge now that was 10
+4:49 years ago now so just imagine what that
+4:51 stat would be now with people's
+4:52 attention spans being at an all-time low
+4:54 and getting lower and lower every single
+4:56 year now to you those stats might not
+4:58 sound like a lot but there will be some
+4:59 of you watching this video who are
+5:01 running landing pages that taking one or
+5:03 even two seconds to load for your user
+5:05 and because of this you'll be losing
+5:06 conversions and therefore profit my
+5:08 pages take around 580 milliseconds to
+5:10 load with convert Tre which is going to
+5:12 maximize the amount of prospective
+5:13 customers that I'm going to get through
+5:14 to my offer so speed is an absolute must
+5:17 for your campaigns guys I'm going to pop
+5:18 a link in the description below for a
+5:20 14-day free trial convert test it out I
+5:23 think you'll be very impressed and
+5:24 you'll be able to see why it's my
+5:25 landing page builder of choice I'm also
+5:27 going to pop another link onto the video
+5:29 too to an interview that I did with
+5:30 their CEO and founder Andy Fletcher on
+5:33 Modern entrepreneurship I think you guys
+5:34 would really enjoy that if you haven't
+5:36 seen it already now in terms of speed
+5:37 speed also has a duality to it speed is
+5:40 not only about the speed of your pages
+5:41 loading but also speed and getting
+5:43 started so whichever page builder that
+5:45 you do decide to go with make sure the
+5:46 software is very responsive and make
+5:48 sure you have the ability to save a
+5:49 basic page structure for yourself in a
+5:51 template format that you can come back
+5:53 to time and time again and for those of
+5:55 you out there who prefer to HTML your
+5:57 own Pages just make sure that you have
+5:58 some really f fast hosting in place so a
+6:01 VPS or dedicated server those of you who
+6:03 are using a landing page builder
+6:05 facility that will come with hosting as
+6:07 part of your plan so there's no need to
+6:08 worry there the next tool in my tech
+6:10 stack is a spy tool this allows me to
+6:12 quickly scan what's going on in the
+6:13 affiliate landscape I can quickly look
+6:15 at the types of offers or niches that
+6:17 are trending on a particular traffic
+6:18 source and although I've worked in many
+6:20 many niches over the years there are a
+6:21 few that haven't so that would
+6:23 definitely be a time where I'd use a spy
+6:25 to get a competitive advantage in terms
+6:27 of themes and angles that we working to
+6:29 give me some inspiration for my own
+6:30 campaigns I also want to be clear that
+6:32 I'm not looking to copy I'm just looking
+6:34 to gain Insight I'll talk more about why
+6:35 you shouldn't copy in another video
+6:37 another time so my spy tool of choice is
+6:39 a software called anstrex and I use this
+6:41 particularly for Native advertising but
+6:43 it also has some great options for pop
+6:45 push and Tik Tok if that interests you
+6:47 again I'll pop a link for that in the
+6:49 description below guys now to be honest
+6:50 if you're an affiliate marketer looking
+6:52 to run paid traffic then a Tracker a
+6:54 landing page builder and a spital
+6:55 specific for the traffic Source you're
+6:56 looking to run ads on are all you really
+6:58 need to get your business away that's
+7:00 all I use in terms of software specific
+7:02 to my campaigns and it's all you need to
+7:03 use as well don't over complicate it and
+7:06 don't overspend on these either I've met
+7:08 people who seem to have bought every
+7:09 affiliate marketing software in
+7:11 existence almost and they've never even
+7:13 opened half of it so don't be that guy
+7:15 so I hope you've enjoyed today's video
+7:17 hope you found it helpful in exploring
+7:18 your own software options and if you
+7:20 want to see more content just like this
+7:22 be sure to like And subscribe if you
+7:24 want to take your affiliate marketing
+7:25 business to new heights this year be
+7:27 sure to visit us at revenu tactics.com
+7:29 so I hope you have a great rest of your
+7:31 day and I will see you in the next video

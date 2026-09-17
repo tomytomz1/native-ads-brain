@@ -1,0 +1,175 @@
+Title: Voluum DSP Closed Down. What Now?
+URL: https://www.youtube.com/watch?v=5BHg3vaa1g4
+Video ID: 5BHg3vaa1g4
+Language: en
+Caption type: auto-generated
+
+---
+
+0:00 hi guys I hope you're doing great Tom
+0:02 Bell here from revenue tactics and
+0:03 welcome to today's video where I'll be
+0:05 discussing the recent closure of the
+0:07 platform volume DSP which happened a few
+0:09 months ago I know it's a bit of a
+0:11 mysterious topic that those of you
+0:12 already running native ads have been
+0:14 wondering about so I'm going to be
+0:15 clearing the air on the mass today so to
+0:18 speak so before I get started guys be
+0:20 sure to subscribe to the channel if you
+0:22 aren't already hit the like button that
+0:24 really helps me reach more people just
+0:26 like yourself
+0:27 pleased that all important YouTube
+0:28 algorithm so for those of you who
+0:31 weren't familiar with the platform
+0:32 already who were volume DSP so I'll
+0:35 answer the question in two parts because
+0:37 as implied in the name there was a
+0:38 duality element to their service so
+0:41 volume itself first and foremost is a
+0:43 campaign tracking platform and it's
+0:45 certainly one of the best if not the
+0:47 best out there I've used them myself
+0:48 years and have enjoyed a great business
+0:50 relationship with them so just for some
+0:53 further background volume our own by a
+0:55 Polish company called codewise which was
+0:57 founded by Tech entrepreneur Robert grin
+0:59 now a DSP stands for a demand side
+1:02 platform which is a software system that
+1:04 allows advertisers to buy traffic online
+1:06 with Automation and manage multiple ad
+1:09 exchanges all in one place so
+1:11 essentially in the case of volume DSP
+1:12 they allowed us to use their tracker for
+1:14 free and manage all of our traffic
+1:16 Source data within the same facility and
+1:18 this was also done via a CPM model so
+1:21 basically bidding for ad Impressions or
+1:23 views as opposed to standard practice
+1:25 when going directly to the native
+1:26 traffic sources which is using a cost
+1:28 per click model which is where you'll
+1:30 only be charged for someone actually
+1:31 clicking on your ad if you'd like more
+1:33 clarity on that check out some of the
+1:35 other videos on Native advertising on my
+1:37 channel my native ads masterclass course
+1:39 in the description below so in summary
+1:42 with volume DSP we're getting all of
+1:44 their tracking and campaign Management
+1:45 Service where we could view all of our
+1:47 traffic sources within the same
+1:48 interface and any edits made for the
+1:51 campaign for instance turning off a
+1:52 specific creative or even pause in one
+1:54 particular operating system that a
+1:56 campaign was running to on the
+1:57 audience's device would be automatically
+1:59 updated at the traffic Source level so
+2:02 sounds great and it's true that we're a
+2:04 great deal of positive elements to the
+2:06 platform it was a great place for
+2:08 beginners to learn the ropes and learn
+2:10 the value of split testing as the DSP
+2:12 facility allows you to test a huge
+2:13 number of creatives all at once evenly
+2:16 so you could throw a lot at the wall and
+2:18 see what sticks so to speak
+2:20 one of the other elements I really liked
+2:22 about the platform is that it was very
+2:24 easy to plug in whitelists and
+2:25 blacklists so in the case of a white
+2:27 list if you wanted to Target a certain
+2:29 list of domains to buy ads on you could
+2:31 simply upload a DOT CSV file and then
+2:34 you would only receive traffic from
+2:35 those exact placements and then
+2:37 contrastingly with a blacklist you could
+2:39 easily block placements in the same way
+2:41 you also had a really good level of
+2:43 account management so even if you're a
+2:44 newbie Advertiser and Reps at volume DSP
+2:47 were very helpful when it came to
+2:49 optimizing your campaign data and
+2:50 providing basic levels of training for
+2:52 their Affiliates too so I certainly had
+2:55 a great relationship with the volume DSP
+2:57 team I met one of the directors in
+2:59 London fairly recently very nice person
+3:01 but it's important to clarify volume DSP
+3:04 were a separate organization had
+3:06 different staff to the tracking platform
+3:07 at volume but when they shut down it was
+3:10 certainly a bit of a surprise for a lot
+3:11 of their customers and left many people
+3:13 disappointed however there were a number
+3:16 of slight drawbacks to the platform for
+3:19 instance the traffic itself I believe
+3:20 was a slightly lesser quality than what
+3:22 you could obtain directly from the
+3:23 traffic networks are you're not using
+3:25 the DSP as the platform still worked on
+3:28 the supply basis so wouldn't have access
+3:30 to all of the inventory that was
+3:31 available from a traffic Network
+3:33 directly and certainly the most premium
+3:35 placements were reserved for direct
+3:36 advertisers only another slight drawback
+3:39 is that you would of course be paying
+3:40 more for the traffic as the DSP would
+3:42 have to add their Mark upon for the DSP
+3:45 facility seemed like it was free but of
+3:47 course it wasn't the price for using the
+3:49 facility would be worked into the
+3:50 traffic models that you didn't notice it
+3:51 which I completely understand the
+3:53 business has to make money but just
+3:55 something to keep in mind if you were
+3:56 advertising there you would have been
+3:57 paying a premium for the facility so now
+4:00 volume DSP have closed down what now how
+4:03 does this change the landscape for
+4:04 buying any tavas well not much really
+4:07 most Affiliates like myself have always
+4:09 been buying the traffic directly from
+4:10 the network says this way you can obtain
+4:13 the best quality traffic in the best
+4:15 possible price however I thought the DSP
+4:17 facility was great to do some initial
+4:19 testing because of its split testing
+4:21 facility and then take that data and run
+4:23 the campaign directly at the source and
+4:25 networks like rev content to call it an
+4:27 outgrain for instance and I'd like to
+4:29 add as well that I'm still using volume
+4:31 the tracker as I believe it's the best
+4:33 quality Tracker out there and if you'd
+4:35 like a special Revenue techniques
+4:36 discount I've got 30 off for you guys by
+4:39 the link in the description below
+4:41 okay guys I hope that video was super
+4:43 helpful for you and reaffirmed that the
+4:45 future is very much bright for affiliate
+4:47 marketing and Native advertising after
+4:49 the closure of volumes DSP if you'd like
+4:52 to see more affiliate marketing content
+4:54 from our Channel please make sure you
+4:55 subscribe and hit that like button below
+4:57 and if you'd like to take your campaigns
+4:59 to that next level and start dominating
+5:01 affiliate offers or networks like rev
+5:03 content and ngid for instance check out
+5:06 my native ads masterclass in the link in
+5:08 the description below and if you decide
+5:10 to take action with that we really look
+5:12 forward to having you as a student in
+5:14 our affiliate educational Academy
+5:16 so thanks for listening guys have a
+5:19 great day and I look forward to seeing
+5:20 you soon
+5:22 [Music]
+5:26 [Applause]
+5:28 [Music]

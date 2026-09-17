@@ -1,0 +1,2034 @@
+Title: Tom Bell & Andy Fletcher (Convertri CEO) Discuss What Makes a Great Landing Page!
+URL: https://www.youtube.com/watch?v=nTUvHXg2xuY
+Video ID: nTUvHXg2xuY
+Language: en
+Caption type: auto-generated
+
+---
+
+0:03 hi guys it's Tom Bell here I hope you're
+0:05 doing great and of course all busy with
+0:07 your affiliate campaigns and profiting
+0:09 in this e-commerce quarter four that
+0:11 we've just moved into and I also hope
+0:13 you've got some exciting Thanksgiving
+0:15 and Christmas plans on the horizon
+0:17 there's a cold whoever starts to move in
+0:19 well certainly here in England that's
+0:20 the case so in today's webinar as you
+0:23 know I've got a very special guest and
+0:25 friend with me today which is Andy
+0:26 Fletcher so how are you doing today Andy
+0:29 hey Tom I'm doing well thank you thanks
+0:31 for uh thanks for having me on your show
+0:32 I really appreciate you hosting
+0:35 now Andy in my opinion I don't embarrass
+0:38 him too much is nothing short of a
+0:40 genius he's the CEO and the founder of
+0:42 convertery and for those of you who
+0:44 aren't familiar with convertery it's a
+0:46 lightning fast website and funnel
+0:47 Builder software and platform so for
+0:50 those of us myself included who don't
+0:52 really do any coding or HTML obviously a
+0:55 platform like this is a dream scenario
+0:56 really because we don't have to go to a
+0:58 web designer every time and pay for our
+1:00 page to be hard-coded now there will be
+1:03 times in my own business as where I do
+1:05 hire developers to build out so my
+1:07 e-commerce projects and Authority
+1:09 websites perhaps but when it comes to
+1:11 Classic affiliate marketing pretty
+1:12 pretty much every time I'm using and my
+1:15 students are using funnel Builders
+1:16 really and of course you guys will be
+1:19 familiar with some of those already out
+1:20 there and you've probably tried some and
+1:22 discovered the benefits to doing that as
+1:24 well as some of their shortcomings
+1:25 particularly with loading speed and just
+1:27 a general lack of flexibility on the
+1:30 editing side of things now aside from
+1:32 myself having a lot of admiration for
+1:34 Andy on the business front and launching
+1:36 a multi-million dollar company in the
+1:38 Internet space and actually a relatively
+1:40 short space of time I think you got
+1:41 going in 2015 didn't you Andy
+1:44 yeah that was that was when we first
+1:45 started building convertery
+1:47 right so Andy really listened to what
+1:50 the customer wanted when it comes to
+1:52 these kind of softwares and there was
+1:55 really a massive pain point in the
+1:56 Market at the time where funnel Builders
+1:58 weren't of any kind of quality and you
+2:00 always had to be a coder to actually use
+2:02 them and Andrew laugh probably laugh at
+2:03 that one and you know get what you
+2:05 wanted out of them in the first place so
+2:07 Andy basically said well I I am a coder
+2:10 but you shouldn't have to be a coder in
+2:11 order to use these facilities and
+2:13 shortly afterwards convergee was born so
+2:16 today in this interactive webinar format
+2:19 Andy's going to provide us with a bit of
+2:21 content mixed in with a demo of how you
+2:23 can get started to making beautiful
+2:25 looking landing pages for your affiliate
+2:27 campaigns that really convert and we're
+2:29 also going to be talking about the key
+2:31 components of an effective landing page
+2:32 as well the power of multivariant spit
+2:35 testing on your landing pages and in my
+2:38 own campaigns and this is sewing I'm
+2:39 really big on with my private coaching
+2:41 students I can show you a ton of data
+2:43 we're just making an adjustment in the
+2:45 headline or main image at the top of
+2:47 your language page can have a dramatic
+2:49 impact on your conversions so I don't
+2:51 want to speak too much for Andy I'll let
+2:53 him take over in just a moment but as
+2:54 always guys if you do have any questions
+2:56 for either of us make sure to pop those
+2:58 in the chat box as we go or just save
+3:00 them to the end and we will happily
+3:01 answer those for you join the dedicated
+3:03 q a section of the webinar so over to
+3:06 you Andy
+3:08 thank you so much Tom and hey everyone
+3:10 great to great to have you here today uh
+3:13 I hope everyone can hear me all right uh
+3:15 can you can you stick a one in the chat
+3:17 box uh if it's assuming you can hear me
+3:19 and you should see on your screen my
+3:21 headline which is affiliate landing page
+3:23 Secrets your journey to 100 a day uh
+3:26 stick one in the chat box tell me you
+3:27 can see that tell me you can hear me
+3:29 perfect yeah the ones coming through
+3:31 good morning Lloyds
+3:33 yeah it's just got a good morning there
+3:35 for us
+3:36 good morning to everyone
+3:39 thank you very much
+3:41 in America a great time in the UK
+3:44 forgive us for forgiveness for being
+3:46 British uh and thank you to the oh thank
+3:48 you to the Americans that are coming in
+3:49 as well that say they got up early for
+3:51 this I'm I'm quite flattered thank you
+3:52 very much guys
+3:54 um okay so as as Tom said I'm I'm here
+3:57 to teach you about landing pages how to
+3:59 assemble them like the the most
+4:02 important feature of like affiliate
+4:04 marketing campaigns and by the end of it
+4:07 I want to basically I want to have shown
+4:09 you just how fast you can get something
+4:11 like this set up because I I remember
+4:13 just how overwhelming it all felt early
+4:16 on like I I got my start in affiliate
+4:18 marketing as we'll talk about in a
+4:19 moment and I realized like I felt so
+4:22 overwhelmed
+4:23 I this is kind of the presentation I
+4:25 wish someone had done for me back then
+4:28 so I want to show like this is the
+4:30 format you'll be used to seeing if
+4:31 you've been on a webinar before uh it's
+4:33 a nice format it helps the flow like it
+4:35 helps me organize my thoughts but like
+4:37 there isn't some like two thousand
+4:39 dollar like training package for sale at
+4:40 the end of it uh at the end of this we
+4:43 Tom and I will tell you how you can get
+4:44 like like a free trial to the the
+4:46 software the templates a one-to-one on
+4:48 board and call with a member of my team
+4:50 live there's no like marketing tricks
+4:52 and tactics involved here like I think
+4:55 we sell great software I think you're
+4:56 going to love it I hope you will take
+4:58 the trial you will engage with my team
+5:00 you will build campaigns with the
+5:01 templates I hope you use all of the cool
+5:02 stuff we offer I hope you love it and
+5:04 then I hope you subscribe after that uh
+5:07 but as I say everything everything we're
+5:09 going to talk about today you can have a
+5:10 free trial of at the end of it it's
+5:12 absolutely like it's not even money down
+5:14 with a money back guarantee we offer
+5:15 completely free trial even the
+5:17 one-to-one onboarding call so I I hope
+5:20 you join us
+5:21 uh obviously please do listen up uh this
+5:24 is yeah you are on a computer right now
+5:26 you're on a phone you have distractions
+5:28 uh you are going to get text message
+5:29 during this your social media could be
+5:31 open like turn your phone over put it on
+5:34 silent close the tabs uh like try try
+5:36 and give this your full attention I was
+5:38 very guilty early on of trying to like I
+5:41 prided myself on being a multi-tasker
+5:43 that's that's what I did and what this
+5:45 meant was I checked my text messages and
+5:47 I like just browsed that bit of social
+5:49 media and I reply to an email and
+5:51 everything took me so much longer than
+5:53 if I just sit down and engage for like
+5:55 45 minutes so please give me your full
+5:57 attention and I will attempt to do this
+5:58 Justice and share basically all of the
+6:01 affiliate landing page secrets that I
+6:02 know and help you on your journey to
+6:04 earning that first hundred dollar a day
+6:06 which is for me was like the big turning
+6:09 point which is what we're going to talk
+6:11 about in a sec
+6:12 right Tom's done a brilliant intro so I
+6:14 promise not to dwell on this a little
+6:16 bit about myself I'm the founder of
+6:18 convertery and my specialism is
+6:20 affiliate marketing I run three seven
+6:23 figure companies and now I've got an
+6:25 eight-figure business and it was all
+6:27 built around affiliate marketing I owned
+6:30 an affiliate network uh I've driven over
+6:32 10 million dollars worth of affiliate
+6:33 sales at the biggest campaign I've ever
+6:35 run as a vendor we grossed over 750 000
+6:38 in a week and the biggest campaign I've
+6:40 ever run as an affiliate sold over a
+6:42 hundred thousand dollars in a week I've
+6:44 been in this industry for well over a
+6:45 decade now I've run just about every
+6:48 kind of campaign there is out there and
+6:50 I don't I mean I share this to brag a
+6:51 little bit because of course I do but I
+6:53 want to help you understand I do at
+6:55 least badly know what I'm talking about
+6:57 but I also want to help you understand
+6:59 that this isn't where I started like
+7:02 I've been doing this a long time I'm not
+7:04 here to promise you that you're going to
+7:06 like run a seven figure company tomorrow
+7:08 if you follow this what I'm trying to
+7:09 teach you here is how to get going how
+7:11 to reach that first initial point
+7:13 because my initial story started like
+7:15 this I had graduated from a UK
+7:18 University I was in my second job out of
+7:20 a university in a London startup and we
+7:23 were all called into the boardroom one
+7:25 day uh foolish foolish Mortals that we
+7:27 were we thought our stock options were
+7:29 going to be worth something uh but
+7:31 instead what the directors told us was
+7:33 we can't pay you this month but if
+7:35 everyone works hard we think we can pay
+7:37 you next month
+7:38 now I would have been about 25 at this
+7:40 point and I had this sudden shock
+7:42 realization that
+7:44 wait paying me is optional like did I I
+7:48 take on all of this risk I don't get any
+7:50 of the upside if the business works out
+7:52 but I can stop at the downside if they
+7:55 screw it up like that's not gonna work
+7:57 for me so I I quit in a half of like 25
+8:00 year old bravado uh did determine to
+8:03 like make myself successful online and
+8:06 as I've got some nice illustrations of
+8:08 the next like year or so it was quite
+8:10 dramatic for me because I tried I tried
+8:12 everything I tried uh I did SEO I did
+8:15 Forum posting like like tons of like you
+8:18 know engagement stuff and trying to
+8:20 build email lists and honestly none of
+8:23 it worked for a long time like it was it
+8:25 was a struggle but like the the moment
+8:29 for me that really exciting breakthrough
+8:31 came when I'd made this really simple
+8:35 PHP script I'd knocked it up in a couple
+8:37 of hours uh because everyone back then
+8:39 the big thing everyone wanted was a way
+8:42 to cloak their affiliate links now it's
+8:43 just table Stakes everyone knows how to
+8:45 do this everyone's got a free script to
+8:46 do it but back then this was this was
+8:48 really exciting stuff but I'd made this
+8:51 script I'd given it to a bunch of people
+8:52 all and what one day I got the question
+8:56 like how do I even install this what do
+8:58 I do and I was like oh just just go get
+9:01 a HostGator account and set it up and
+9:04 the guy was like oh cool thank you um
+9:07 what's your affiliate link
+9:09 and I gave this person my affiliate link
+9:11 Inc and they signed up for HostGator
+9:14 and I got a 25 commission and it was
+9:18 the most exciting thing in the world
+9:20 ever I had taken an action I had done a
+9:22 thing I'd found someone that needed
+9:25 something I'd shown them where to get it
+9:27 and I got a commission from that now I
+9:29 know lots of people on this call
+9:30 probably like maybe you've already had
+9:32 that moment or maybe you like kind of
+9:33 you kind of get the affiliate model but
+9:35 I always like to share this because that
+9:38 moment when you get your first
+9:40 commission if you haven't experienced it
+9:42 yet is just ultimately life-changing
+9:45 that realization that it's not a scam
+9:47 like it's not all made up sure the
+9:48 internet is full of scams but there is
+9:51 plenty of affiliate marketing stuff that
+9:52 just works it's just good marketing
+9:54 practice and you can learn how to do
+9:56 this and that's what I'm hoping I can
+9:58 share in this because for me like being
+10:01 able to pay my rent pay my bills go out
+10:04 for a coffee without worrying about it I
+10:05 was 25 so a big part of my life back
+10:07 then was partying on the weekend with my
+10:09 friends and doing all of that while like
+10:13 my contemporaries had to like they set
+10:16 their alarms they went off to a day job
+10:17 I got like after we went out partying I
+10:20 got to sleep in the next day and growing
+10:22 that affiliate marketing business while
+10:24 having that freedom and being able to
+10:26 pay my bills was it was truly liberating
+10:28 and it's the start of like the
+10:31 successful career I built in the
+10:32 industry since so
+10:35 like that one of the the weird things
+10:37 people often say to me is oh Andy like
+10:39 you know you run this big software
+10:40 company now like why why do you teach
+10:42 this beginner internet marketing like
+10:44 beginner affiliate marketing stuff and
+10:46 honestly the answer is because it's a
+10:48 great place where to start like sure I
+10:50 happily coach people on how to like
+10:51 start big SAS software companies too but
+10:54 like that's not for everyone not
+10:56 everyone's ready for that everyone wants
+10:58 that like a lot of people want the
+11:00 freedom particularly right now the the
+11:01 cost of living crisis the energy crisis
+11:04 like a lot of people just want to know
+11:06 how to make that first hundred dollars a
+11:07 day in a consistent fashion and that
+11:11 that's what I'm going to try and do on
+11:12 this call I'm going to show you how the
+11:13 tools work I'm going to show you an
+11:14 amazing template I'm going to show you
+11:16 how to put it all together I'm going to
+11:18 show all of the other stuff that my
+11:19 company offers and I hope you join us
+11:21 but hopefully by the end of the call you
+11:23 will see how it all fits together and I
+11:25 will hang around afterwards for as long
+11:27 as you need you can ask me as many
+11:28 questions as you want whether it's about
+11:30 the software or about like Marketing in
+11:32 general I'll happily answer anything you
+11:34 want to know
+11:35 so oh in fact I've left this slide in
+11:37 from a previous one so I've covered this
+11:39 but just like these are my reasons that
+11:41 I love affiliate marketing like I love
+11:43 owning a software company it's amazing
+11:45 but as a way to get started having
+11:47 something that is cheap where you can be
+11:49 independent you don't have to create a
+11:51 product you don't have to carry
+11:52 inventory you don't have to worry about
+11:53 fulfillment and distribution
+11:55 and probably most importantly someone
+11:57 else has already figured out how to sell
+11:59 the product so a lot of what you need to
+12:02 do the the other guy the vendor has
+12:05 already done the work for you so today
+12:07 when I'm showing you how to fill in
+12:08 templates I'm not going to be teaching
+12:10 you really deeply complicated marketing
+12:12 concepts what I'm going to be teaching
+12:14 you is how to find the answers on
+12:15 somebody else's sales page and then fill
+12:17 in a template that we've got for
+12:18 and that makes it so much more
+12:21 achievable than trying to do everything
+12:23 for yourself from scratch
+12:26 okay right engagement time I've waffled
+12:28 long enough let's get into the important
+12:30 stuff so what is the most important
+12:32 factor for sex successful affiliate
+12:34 marketing thing stick your answers in
+12:36 the chat I uh incidentally my chat thing
+12:39 is broken Tom might have to read out
+12:41 some of the things people say
+12:42 um
+12:43 anyway so no worries so um what's uh
+12:48 what do people think is the most
+12:49 important factor for doing successful
+12:51 affiliate marketing
+12:53 stick your answer in the chat box let me
+12:55 let me know what you think
+12:57 we'll just wait for those to come in
+13:02 okay Lloyd is saying conversions
+13:06 yep conversion's very important factor
+13:08 uh not I'm not what I would say is the
+13:10 most important factor
+13:12 um and clearly I think there's a right
+13:15 answer I built a presentation around it
+13:17 so uh don't don't feel bad if no one
+13:19 gets it
+13:20 um
+13:21 okay we'll just give it another 30
+13:23 seconds or so and see excellent I'm just
+13:25 gonna take a swig of water as well yeah
+13:30 he's doing a great job
+13:31 yeah so we've we have uh like often we
+13:34 talk about like like the offer or the
+13:37 market you're in or like there's a lot
+13:39 of received wisdom from Marketing in
+13:41 general that it's totally true of Market
+13:44 affiliate marketing you want to have a
+13:47 great offer you want to have good
+13:49 conversions you want to have all these
+13:51 things that are just always true in
+13:52 marketing but in affiliate marketing the
+13:56 most important factor is speed
+13:59 because
+14:00 most stuff has kind of already been done
+14:02 for you and it's your ability to get
+14:05 there quickly that is going to make the
+14:07 difference between succeeding or not
+14:09 the faster your pages load the cheaper
+14:12 your ads are going to be I'll talk more
+14:13 about that in a moment
+14:15 the quicker you can build a campaign the
+14:19 more shots you can take
+14:20 now the better you get at marketing the
+14:23 more informed you can be the better your
+14:25 first attempt will be but as any
+14:27 successful marketer will tell you Tom
+14:29 included like it never works first time
+14:32 so if it takes you a month to get a
+14:35 campaign up and running you're probably
+14:37 not going to succeed what matters is how
+14:40 do I get something up and running
+14:41 quickly so I can test it so I can try
+14:43 something I can test this off or I can
+14:45 test this product I can test this app I
+14:47 can test this landing page I can test
+14:48 this headline I can see what's going on
+14:50 so everything you do needs to be set up
+14:52 to enable it to be fast
+14:54 and the other thing which is obviously
+14:57 clearly going to be a plug for my
+14:58 company I'm making a bones about it is
+15:00 the speed of support you can get in your
+15:02 endeavors because
+15:05 it's just no good to you if you have a
+15:07 tool that isn't intuitive or if like
+15:10 you're on something like WordPress and
+15:12 you have to Google for all the answers
+15:14 yourself and it takes you like a week
+15:16 and a half just to like move something
+15:18 around on the page like if everything
+15:20 takes you that long to get up to speed
+15:22 to understand what you're doing to make
+15:23 changes just getting to those getting to
+15:26 those results getting even if the result
+15:28 to start with is you get your first
+15:30 campaign up and it fails like that is an
+15:32 important step because your first try at
+15:33 anything is going to fail like that's
+15:35 that's true of me today
+15:37 um it's not like I have some magic
+15:39 Wizardry skills what matters is how fast
+15:41 you can get there so you can do another
+15:43 one
+15:45 so let's start by talking about page
+15:47 speed this is our first Spot the
+15:48 Difference
+15:50 um
+15:51 who can tell me what the difference is
+15:53 between these two landing pages you
+15:54 probably have to look quite closely so
+15:56 what I can tell you is the one on the
+15:58 right converted 25 higher than the one
+16:01 on the left
+16:03 can anyone tell me what the difference
+16:04 is between the two pages
+16:07 wow that's a big difference for saying
+16:09 so subtle
+16:10 yes it is
+16:15 okay let's have a look any answers guys
+16:21 foreign
+16:23 people are shy and I'm I'm not surprised
+16:27 because you can't actually see the
+16:28 difference in the screenshot it's a
+16:29 trick sorry I'm that guy
+16:32 um the difference is Lloyd's saying
+16:34 optimized yeah the the right hand page
+16:38 the one that converted 25 higher loaded
+16:40 quicker the one the one on the left was
+16:42 a standing landing page that took more
+16:44 than three seconds the one on the right
+16:46 was optimized and loaded in under a
+16:48 second and the difference for us was 25
+16:51 higher conversions 25 more opt-ins for
+16:54 the same traffic the same ads the same
+16:55 spend the same everything just loaded
+16:58 quicker so we got 25 more opt-ins
+17:00 wow our results are actually at the low
+17:04 end of the industry when we first
+17:06 started uh 2015 2016
+17:09 Amazon had recently run a test at that
+17:11 point where they showed that their them
+17:13 numbers showed that you they got 40 more
+17:16 like conversions if the page loaded in
+17:19 under three seconds and a couple years
+17:22 ago Google repeated the same experiments
+17:24 and at that point it was 52 more
+17:26 conversions again same traffic same
+17:28 everything but just pays that loads in
+17:31 under three seconds page that both in
+17:32 under three seconds it is such an
+17:34 enormous difference if you think about
+17:36 your ad spend like if you're losing if
+17:38 your page loads in over three seconds
+17:40 you're losing half of your traffic
+17:42 before you even get started see what ads
+17:45 are costing to us at least as much it
+17:46 means it'll take you twice as long to
+17:48 find out if something works uh it makes
+17:50 such a crazy difference I can't tell you
+17:52 how important this is your pages must
+17:54 load fast uh a typical example for
+17:58 anyone on the court that has run a
+17:59 campaign in the past you have probably
+18:01 seen where might not be Facebook it
+18:03 might be like your native ads campaign
+18:04 it might be wherever you get your
+18:05 traffic from they tell you like Facebook
+18:07 says they've sent you 100 clicks and
+18:10 your Google analytics reports that you
+18:11 had 75 clicks to the page and most
+18:14 people look at these numbers and they go
+18:16 oh fine I guess Facebook's lying to me
+18:18 but of course they are like they're
+18:20 charging me per click or they want me to
+18:22 think I've got more clicks
+18:23 etc etc the truth is Facebook probably
+18:25 actually aren't lying to you what's
+18:27 happened is a hundred people click the
+18:29 link in Facebook and 25 of them got
+18:32 bored before the landing page loaded so
+18:35 when you see more clicks coming out of
+18:36 Facebook then show up in your Google
+18:38 analytics they're literally people that
+18:40 have got bored and they wandered off
+18:42 and this is particularly important for
+18:45 affiliate marketing because the less
+18:48 engaged your traffic is the more
+18:50 important page speed is let me explain
+18:53 when you like if you log into Gmail to
+18:55 check your email
+18:56 and let's let's say Google's having a
+18:58 bad day and it took 20 seconds for your
+19:01 email to open
+19:03 you're just going to sit there and stare
+19:04 at the screen right like it's your email
+19:06 you're not going to wander off and be
+19:07 like oh I guess I'm not checking my
+19:09 email today you're going to wait you're
+19:11 super engaged you want the result it's
+19:12 fine
+19:13 when someone clicks a very affiliate
+19:15 marketing interrupt driven ad it's like
+19:18 a native ad at the end of the article
+19:19 it's like an interrupt ad in the middle
+19:21 of a Facebook feed they are
+19:24 they're engaged slightly like they
+19:26 clearly looked at your headline on the
+19:27 ad they've clicked it for a reason they
+19:29 probably haven't clicked it around them
+19:30 but they don't really care so you've got
+19:34 a very limited window to get that page
+19:36 in front of them and show them the next
+19:38 part of your message before they go like
+19:40 three seconds later they're just going
+19:41 to be like eh I don't really care I
+19:43 didn't really want to know about you
+19:45 know the 12 ways to lose fat loss with
+19:47 bananas or whatever the Hook is so
+19:49 you've got to get it in front of them as
+19:51 quickly as you possibly can
+19:54 now build speed uh I promised you like a
+19:58 demo of the software I'm going to take
+19:59 you through like how to construct a
+20:01 landing page I've got a template again
+20:03 you can have a free copy of the template
+20:04 at the end of this and what I want to
+20:07 show you is
+20:08 how to use a pre-designed template that
+20:11 we've in fact based on Tom's training
+20:12 like this is specific
+20:14 um to this call this isn't some like
+20:15 generic thing we've done we literally
+20:18 built it out based on the landing page
+20:19 he sent us and I also got members of my
+20:21 team to fill it in to make sure like it
+20:23 worked it wasn't just me making stuff up
+20:25 so what we're going to look at is how to
+20:28 get the information out of the sales
+20:29 page how to fill in the template and
+20:32 just to show you how how quick and easy
+20:33 this process can be with the right
+20:35 tooling
+20:37 so first of all I have absolutely no
+20:39 affiliation with this product this one
+20:41 we picked pretty much entirely at random
+20:43 off ClickBank uh this is the
+20:45 self-sufficient backyard it's a 40 ebook
+20:48 that teaches you how to use basically
+20:51 use your back Garden to be
+20:52 self-sufficient and grow a load of cool
+20:53 stuff
+20:54 and it's it's a good product it sells on
+20:57 ClickBank you could easily be an
+20:58 affiliate for this I recommend since I'm
+21:00 recording about this on this call you
+21:03 don't be an affiliate for this because
+21:04 whatever I do a demo of a whole bunch of
+21:06 people are going to go and try and do
+21:07 the same thing for try and find your own
+21:09 product try and find your own thing but
+21:11 the the template I'm going to show you
+21:13 will work pretty much regardless of the
+21:15 product the process of filling it in
+21:17 will work pretty much regardless of the
+21:19 product
+21:20 so let's have a go filling in a template
+21:24 so this is in fact while convertery
+21:27 opens the template let me just show you
+21:28 this is an example someone on my team
+21:30 put together where we filled it in what
+21:33 you'll notice is the images on the page
+21:35 the text from the page the concepts in
+21:38 the copy itself they are all from the
+21:41 sales page absolutely everything about
+21:43 it uh like I got two members of my team
+21:45 to do it one just used
+21:48 um images that were on the page like I
+21:50 think they pulled out this one and one
+21:51 of the others uh one of them got clever
+21:53 and like did a screen grab to get a
+21:55 couple of images out of the video so it
+21:56 would be a bit different but neither of
+21:59 that really matters the point is you're
+22:01 not trying to go somewhere else and get
+22:03 loads of other information you're not
+22:05 trying to basically whenever you're
+22:07 doing affiliate marketing if you're
+22:08 trying to be clever you're doing it
+22:10 wrong you need to use the information
+22:12 that's just already available to you and
+22:15 then fill in a proven template so in
+22:17 this case as I say this template is from
+22:19 a landing page that it's all from Tom's
+22:21 training and what we've done is we've
+22:23 turned it into Mad Lib copy so you'll
+22:26 see the headline where it says this
+22:28 product type could help audience achieve
+22:30 results even with crisis now what we're
+22:34 going to do in fact clearly what I've
+22:35 done in advance like I'm not going to
+22:36 sit here and pick through the sales page
+22:38 in front of you that would be very
+22:39 boring but please know that we have gone
+22:42 through the sales page and everything
+22:44 I'm going to put in there was on the
+22:46 sales page the guys who own this product
+22:48 the vendor they have paid a copywriter
+22:50 to do this they have got they have gone
+22:53 through a really expensive marketing
+22:54 process they understand their audience
+22:56 they understand the words to use they
+22:57 understand what this kind of person
+22:59 wants they already understand all of
+23:01 that
+23:01 you don't need to reinvent the wheel for
+23:03 it you need to go through the sales page
+23:06 you need to pick out what are the things
+23:07 they care about what is it about and
+23:10 then use that to fill in a template
+23:12 so let's have a go uh let's say so
+23:17 using this we've got product name
+23:22 so one thing you should understand is
+23:24 that editing stuff in convertery is it's
+23:26 completely free form and it's the brief
+23:29 we gave the development team in the
+23:30 early days was everything about it
+23:32 should work as close to word as possible
+23:35 if word was actually built for editing
+23:37 web pages if you ever tried to edit a
+23:39 web page in word you know it's
+23:40 absolutely awful experience but what
+23:42 we've taken is all of the good parts of
+23:44 word where if you ever edited a document
+23:46 in it you know how easy it is you know
+23:48 how you can just type stuff
+23:49 so when we edit this this text we can
+23:53 just delete the Mad Lib and we can say
+23:55 so the source is the cell
+23:57 sufficient
+23:59 backyard that's that's the product name
+24:02 uh we've got the author which say that's
+24:04 me or they again you could you could
+24:06 just pull the names off the sales page
+24:07 it doesn't don't try and be clever don't
+24:09 try and reinvent the wheel
+24:11 then let's go right product type this
+24:17 new system
+24:19 could help
+24:23 homeowners
+24:27 achieve
+24:31 self
+24:33 sufficiency
+24:34 can I spell yes I can excellent
+24:38 with capital technically
+24:42 sorry say again Tom
+24:45 I said um capital S but I was just being
+24:47 difficult oh my goodness yeah I mean
+24:50 we're in set marketers we have to
+24:51 capitalize every word in a headline or
+24:53 we basically need to go and shoot
+24:54 ourselves there we go
+24:56 um
+24:57 so hopefully like we'll fill in the rest
+25:00 of the page or like I might not boy
+25:01 you're doing the whole thing but
+25:02 hopefully you can see already from the
+25:04 headline how the template shouldn't just
+25:07 give you like what what a lot of our
+25:08 competitors do is they give you a
+25:10 template which is like put an image here
+25:12 put a headline here what we're trying to
+25:14 do with as many of our templates as
+25:16 possible is we don't just give you say
+25:18 like headline here we try and give you a
+25:20 Mad Lib format for the headline so all
+25:22 you've got to go and do is look at the
+25:24 sales page work out what what the slots
+25:27 are what you need to fill in and then
+25:29 you can drop the the answers to it like
+25:31 a little puzzle into the page and yours
+25:34 yours should just work exactly the same
+25:37 works the same with images
+25:40 say let's swap this out right
+25:42 can I Just Step In For a Moment Andy
+25:44 question
+25:46 so one of the things I want to draw your
+25:48 attention to you guys is what Andy's
+25:50 doing in the headline there
+25:51 so I think it's a good way we can
+25:53 actually go through the marketing as you
+25:54 go through the template of the land
+25:55 around you think that would be a good
+25:56 way to sort of interact with it
+25:58 um but look what he's doing he's calling
+26:00 out benefit orientated
+26:03 um ideas but he's also added in some
+26:05 curiosity because I'm kind of thinking
+26:07 you know this use this that could help
+26:09 homeowners with self-sufficiency even
+26:11 with right what is the solution you know
+26:13 I'm curious
+26:15 um so when you have these kind of
+26:16 landing pages
+26:18 um when you've got a vsl coming
+26:19 afterwards you basically you don't need
+26:21 to um you don't need to show someone a
+26:23 load of testimonials you know you don't
+26:25 need the big long advertorial all you're
+26:26 trying to do is pre-frame someone at the
+26:28 going to see a video afterwards and make
+26:30 them curious here I think that's key for
+26:32 this kind of Lambda
+26:34 absolutely like they say sorry I could I
+26:37 could probably go into a little bit more
+26:38 of a like Mad Lib like why we're doing
+26:40 the Mad Libs as well so let's let's have
+26:43 a look at it so it's
+26:44 this product type could help audience
+26:47 achieve results even with crisis so as
+26:50 Tom mentioned like product type that's
+26:53 got that's going to appeal it's the kind
+26:54 of thing this kind of person wants we
+26:57 say we use audience because that's
+26:59 basically calling out to the kind of
+27:00 person that we think this appeals to now
+27:02 again remember I I know nothing about
+27:04 this Niche um I could well if my camera
+27:07 was on I could show you the size of my
+27:08 garden like I'm not in this target
+27:10 market I don't know anything about it
+27:12 the point is I don't have to because the
+27:14 vendor's already done that work for me I
+27:16 don't know that it's homeowners that
+27:19 this is going to appeal to the sales
+27:21 page tells me it's homeowners that it's
+27:23 going to appeal to just by reading it so
+27:25 but by filling that in it speaks to the
+27:28 person now there's a lot of
+27:30 like an immediate reaction to a lot of
+27:32 this stuff is like oh but what about
+27:33 what about non-non-home owners aren't we
+27:36 ruling those kind of people out aren't
+27:38 we turning them off and it's it's
+27:40 important to understand in marketing
+27:41 particularly affiliate marketing where
+27:43 we're trying to get really Niche you're
+27:44 trying to call out your perfect Prospect
+27:46 as well as you possibly can so don't
+27:50 worry about ruling people out
+27:52 focus on ruling people in focus on
+27:54 saying this is for you
+27:56 and the you that we're talking to is the
+27:59 person that's being talked to in that
+28:00 sales page like don't don't try and
+28:02 figure it out for yourself read the
+28:04 sales page and then talk to the same
+28:05 person in the same way
+28:07 so again the the main benefit the main
+28:10 result that they're looking for is
+28:12 self-sufficiency
+28:13 um we can get that one just from the
+28:15 name of the product it's called the
+28:16 self-sufficient backyard it's safe to
+28:18 assume the kind of person that's
+28:20 interested in being self-sufficient with
+28:22 their backyard wants to be
+28:23 self-sufficient
+28:24 and then our crisis like our extra
+28:27 curiosity it also makes it timely it
+28:30 makes it up to date something like with
+28:31 Rising food prices like I don't think
+28:33 there's anyone on this call I think
+28:35 anyone will listen to this Replay that
+28:37 is going to question like that out of
+28:39 the time of recording food prices are
+28:40 going up quite a bit and it makes it
+28:42 just that much more relevant to what's
+28:44 in the people's head so again don't
+28:47 worry about ruling people out focus on
+28:49 ruling people in
+28:51 and if you want to add to that Tom
+28:52 before I talk about images
+28:54 no I that's cool I think you did a great
+28:56 job I've got something to add on the
+28:58 image front so I'll let you get get
+28:59 ahead with that
+29:01 excellent so again as I say images that
+29:04 you're going to use on your landing page
+29:05 don't don't worry about like getting
+29:07 some we've got Integrations with pixabay
+29:09 and uh like all kinds of stock sites
+29:11 like unsplash and so on if you want to
+29:13 get custom and creative but you probably
+29:15 shouldn't like this page is full of
+29:18 images that you can use
+29:20 so we can go change image
+29:24 convertery we can literally drag you
+29:26 can't see this I've got it open next to
+29:28 it but I can upload it here
+29:31 select the image and immediately we've
+29:33 got our image live on the page I can
+29:35 click publish right now and that image
+29:37 will be live on the web and most
+29:38 importantly that image will be optimized
+29:40 so this was a challenge we we set
+29:43 ourselves that the whole team early on
+29:45 my business partner Neil is a really
+29:47 Keen photographer and he has one of
+29:49 those like massive cameras that take
+29:51 just enormous images so like every image
+29:55 is like 10 20 30 megabytes and obviously
+29:57 if you if you put that image on the page
+29:59 it would just never load or it would
+30:01 take like a minute to load so what we
+30:04 set ourselves the challenge of doing was
+30:05 no matter how big the image is that gets
+30:07 thrown on the page convertery should be
+30:09 able to optimize it for you so when I
+30:12 talk about things needing to be fast
+30:13 this isn't something you need to be able
+30:15 to do yourself when you're using
+30:17 convertery this is something converter
+30:18 is going to do for you so you can
+30:20 literally take a photo if you wanted to
+30:22 take like a headshot photo of yourself
+30:23 you could do it with your really
+30:25 expensive camera which I mean it could
+30:26 be a camera on an iPhone these days is
+30:29 you can upload that photo straight into
+30:31 convertery and it will do the job of
+30:33 optimizing it for the web for you
+30:36 so let's just fill in this one as well
+30:38 so same process
+30:40 now as I say that the member of my team
+30:41 that did this one for me uh this was
+30:43 quite clever he he grabbed this out of
+30:45 the video that's a slightly more
+30:46 advanced skill uh the other person that
+30:48 tested it for me did just use one of the
+30:50 images off the page but I like this
+30:51 photo more so I'm going to use it
+30:53 as you can see this one's a much bigger
+30:55 image but we haven't we haven't I
+30:57 promise you I haven't edited this this
+30:58 is literally the one downloaded off the
+31:00 off the site I shove it into convertery
+31:02 and converter it optimizes it for me so
+31:04 coming back to the speed thing every one
+31:07 of these steps that you could not have
+31:09 to do yourself means you get this
+31:11 campaign out quicker and that's the
+31:13 difference between beating the other guy
+31:15 that's probably targeting the same
+31:17 affiliate product to Market or getting
+31:20 four tests out instead of one every time
+31:23 you can do something faster you can get
+31:25 a better result quicker and it's going
+31:27 to make such a big difference as an
+31:28 affiliate when you're when you like like
+31:31 lots of people graduate affiliate
+31:32 marketing they'll go on to be product
+31:33 owners in their own right and there you
+31:35 often want to take a bit longer you want
+31:37 to do a more detailed dive because like
+31:39 the person who came up with this product
+31:40 probably had to spend a very long time
+31:43 understanding their customer
+31:44 but when you as an affiliate want to
+31:46 Target this product you want to get it
+31:48 live as quickly as possible and that's
+31:50 where all of this tooling comes in
+31:52 which do you want to add about images
+31:54 Tom great well another thing you can do
+31:56 guys you can actually just put a video
+31:58 player button over the image itself so
+32:01 you can just overlay that in a tool like
+32:02 canva very easily
+32:04 um and I think what that does it just
+32:06 helps pre-qualify the person a little
+32:08 bit deeper so the worst thing you can do
+32:10 in the world and and I'm sure Andy will
+32:12 agree with me the worst thing you can do
+32:13 is to someone to click through your ad
+32:15 get to the landing page click through to
+32:17 the offer and then be surprised by what
+32:19 they see you don't want to surprise
+32:20 someone so the fact you've got a vsl the
+32:22 other side of this Lander I think it'd
+32:24 be very smart to put that play button on
+32:26 top I believe it'll increase your
+32:28 conversion rates and it'll increase your
+32:29 click free rates as well naturally
+32:31 because people just love pushing buttons
+32:33 if you wanted to go further or I could
+32:35 see Andy's firing something up now nice
+32:37 um you could also have like a fake video
+32:40 style player that's the thing I talk
+32:42 about in my training materials
+32:44 um that's something that's kind of
+32:45 proven to convert better as well and it
+32:48 also fits with the native advertising
+32:51 experience because a lot of people um
+32:54 who do Native ads so I talk I talk to
+32:57 people a lot about this and content is
+32:59 buried Sorry video content is buried
+33:01 within uh written content these days a
+33:04 lot on websites so you think about the
+33:06 user experience when they click on your
+33:08 native ad
+33:09 um they are expecting to consume some
+33:11 kind of content the other side so if
+33:13 you've got like a video player embedded
+33:15 within the page it actually looks quite
+33:17 natural
+33:18 um and Andy will show you in a moment
+33:20 you can actually hyperlink some of the
+33:22 text inside your copy as well and that's
+33:25 a really good way to go because it looks
+33:27 very natural as an internal link as you
+33:29 would see on a content-based website
+33:31 anyway
+33:33 yep so as Tom said we make it really
+33:36 easy to get your affiliate link onto the
+33:38 page so for example here we can go we
+33:41 can create a link on a button just by
+33:43 going to button settings and you
+33:45 literally copy and paste your affiliate
+33:46 link whether it's a hot link from
+33:47 ClickBank or like wherever you've got
+33:50 your affiliate link from for the product
+33:51 you're promoting drop it onto there and
+33:53 this button will now be a link to that
+33:55 you can do the same for text like let's
+33:58 say I'm just going to sake of argument
+34:00 say who wants to make the text things
+34:01 are getting out of control you would
+34:03 highlight it and you'll click on the
+34:05 hyperlink button and then again paste
+34:07 the link in there and maybe open it in a
+34:09 new tab maybe it's the same window but
+34:11 same thing applies this idea that you
+34:13 can get your your links onto the page
+34:15 really really quickly either isn't this
+34:17 extra stuff to do now hopefully like
+34:19 hopefully it wasn't too distracting
+34:20 while Tom was talking but I I thought it
+34:22 was a good opportunity to demonstrate
+34:24 the pixabay integration like it's a
+34:25 really good shout what Tom said like
+34:27 putting a play button on top of this
+34:29 like it you can see it matches really
+34:30 really well like it's it's these people
+34:32 that are going to be talking to them he
+34:34 says like this is the opening shot that
+34:36 they're probably going to see so having
+34:37 a play button that's not super congruent
+34:39 because the The Styling here is blue I
+34:42 probably could have put a little bit
+34:43 more effort in and found a blue one
+34:44 rather than a red one uh like it's it
+34:46 breaks the congruence page a little bit
+34:48 but hopefully you could see that like I
+34:50 was able to get that onto the page each
+34:52 on top of this image like because it's
+34:54 freeform you can drag this around you
+34:55 can put it wherever you want you've not
+34:57 got to like fight the system to get it
+34:58 where you want it will help you align it
+35:00 by doing these snap lines and then that
+35:03 is live ready to go we haven't got to
+35:05 like kind of fight the system to get it
+35:07 to do what we want
+35:08 so this is probably a good point to just
+35:11 I'm going to publish this page
+35:15 this is a thing that comes up quite a
+35:18 lot so that page is now published it
+35:21 loads really fast like it wasn't
+35:22 published before that is now live on the
+35:24 internet I can make a change to it like
+35:29 I'm going to make things are getting out
+35:31 of control bold I don't know
+35:33 and we're going to click publish again
+35:36 so when you click publish convertery
+35:38 does all of this optimization stuff for
+35:40 you such that you can then click refresh
+35:42 and your changes are now live like if if
+35:45 you're on this call like if you're
+35:46 watching the replay apologies like I'll
+35:48 have made other changes to this page but
+35:49 if you're watching live
+35:50 andy.converter.com Tom Dash Bell
+35:54 um you can in fact I can you want to see
+35:56 it just to get in the chat box
+35:58 um
+35:59 fantastic oh we can't I can only paste
+36:02 that to panelists apparently but uh yeah
+36:05 you can see it on the screen guys you're
+36:07 more than welcome to check it out you
+36:08 can see that like that page is now live
+36:10 straight away and it looks exactly the
+36:12 same as it did in the editor we've not
+36:14 got this approximation step we've not
+36:16 got to we didn't have to fight to get
+36:18 the play button on top of the image we
+36:20 didn't have to fight like a row and
+36:21 column system to get the layout we
+36:23 wanted and we didn't have to worry about
+36:26 like caching times and all kinds of
+36:28 rubbish when we wanted to see the Page
+36:29 live like we hit publish two or three
+36:31 seconds later bang done Pages live ready
+36:34 to go and if you make a change hit
+36:36 publish again
+36:37 it's live it really is that fast
+36:41 very very cool the other thing you could
+36:44 do guys just be thinking a little bit
+36:45 deeper into that image
+36:47 um you could try like a split screen
+36:49 effect or something like that too so you
+36:51 could have
+36:52 um the man and the woman perhaps on the
+36:54 left-hand side and then on the right you
+36:55 could have kind of the device um that
+36:57 they're promising in the offer
+37:00 um just to add a little bit more
+37:01 curiosity there as well
+37:06 um let's say let's take Maybe
+37:10 this image yeah
+37:20 okay so we're gonna get another image
+37:22 onto the page
+37:26 I love your analogy with words as well
+37:28 Andy if
+37:30 if only um it was easy to do this sort
+37:32 of stuff in there
+37:34 oh sorry my um it's it's a little bit
+37:37 unhappy with me trying to uh screencast
+37:39 and uh do uploads
+37:42 with that you've already seen me upload
+37:45 stuff live let's let me just give it one
+37:47 more quick go yeah good yeah sorry about
+37:50 that so it gets a little bit unhappy but
+37:52 sometimes I'm trying to try to
+37:53 screencast at the same time but there
+37:55 you go so let's say we want to do
+37:57 like
+37:59 this on the right
+38:01 this on the left oh that's no good we
+38:04 want to crop that down
+38:06 um we will crop that in a moment
+38:08 I'm just going to speed it up by doing
+38:12 cool things as well you don't need canva
+38:14 necessarily either to do this sort of
+38:16 stuff you can you can just do it
+38:17 directly inside convert you guys
+38:20 yeah so as you can see like I can move
+38:22 stuff around to my heart's content like
+38:24 we said I won't like I mean I can
+38:26 I I always struggle to juggle stuff like
+38:29 I could like I can crop the image in
+38:30 front of you if you really want me to
+38:31 like I can do all this editing in front
+38:33 in convertery um but I know sometimes
+38:35 when I do these demos people get a bit
+38:37 like yeah we get it you can edit images
+38:39 Andy like we we're here for the
+38:40 marketing not the like uh not the very
+38:43 specific things
+38:44 um so as you can see again like if I
+38:46 want to achieve this sort of like two
+38:47 column layout I can do so converter is
+38:50 also smart it knows that because I put
+38:52 this play button on top of this image
+38:54 when I move this image it knows I want
+38:57 the play button to move with it but I
+38:59 can always just drag the play button out
+39:00 if I want to so like convertery's just
+39:03 got this really intuitive like stuff
+39:05 will snap into place it'll move around
+39:07 with you and it's just so much easier to
+39:09 use than most most of those very blocky
+39:11 things like this shovel play button on
+39:14 top of it effect you can't achieve in
+39:16 most file Builders because you just
+39:17 can't put one thing on top of another
+39:21 foreign
+39:23 cool how's it how's everyone doing
+39:25 following along or else we've um I've
+39:27 been talking for quite a while doing the
+39:29 demo uh would you like to see see me
+39:31 fill in a bit more of the page to get
+39:32 the idea sticker stick a note in the
+39:34 chat tell me tell me what you'd like to
+39:36 see more of or less of
+39:42 course okay
+39:43 for those to come through keep in mind
+39:46 that uh like the this template like you
+39:50 don't need to keep notes on this
+39:51 template like we will literally give
+39:52 this to you as part of your free trial
+39:53 so you can try all of this stuff out for
+39:55 yourselves this isn't this isn't some
+39:57 like super expensive thing that I'm
+39:59 gonna try and sell you in a moment like
+40:00 you can literally have a free copy of
+40:02 this
+40:03 um at the end of the call when we're
+40:04 done chatting
+40:05 very cool so Lloyd's got a really good
+40:08 question
+40:09 um
+40:10 yeah are you using different cdns in
+40:13 different GEOS to increase speed for
+40:15 example a server in the UK another USA
+40:18 another in Australia
+40:20 uh so yes absolutely and we have a
+40:24 different uh a bunch of different cdns
+40:28 depending on the content type so we
+40:30 serve the pages differently to the
+40:32 images differently to videos so they
+40:35 come from pretty much the bigger the
+40:38 thing is the closer we serve it to them
+40:41 from so the page itself will reload from
+40:44 Three core data centers so we maximize
+40:46 the availability and like really
+40:48 expensive Google run data centers for
+40:51 images we're in like 20 or so GEOS all
+40:53 over the world and for videos we're in
+40:55 uh even more than that to get video
+40:58 chunks as close to people as possible so
+41:01 in answer to your question yeah
+41:02 absolutely like it's you pretty much
+41:04 can't do without that as like a
+41:06 professional like landing page building
+41:07 service now
+41:09 um it's when we first did all this stuff
+41:11 five years ago it was pretty
+41:13 groundbreaking now it's kind of like the
+41:16 guys that didn't do this at all just got
+41:18 wiped out like you can't you can't not
+41:20 claim to be a professional Landing Page
+41:21 Builder and not offer that kind of like
+41:23 content delivery technology it's it
+41:26 pretty much has to be baked in
+41:28 um I know I know some uh some of our
+41:31 competitors like kind of halfway house
+41:33 that you have to do in integration with
+41:34 cloudflare
+41:36 um in order to get the same thing we we
+41:38 prefer to do it all for you so one of
+41:40 the other things we'll do is like you
+41:41 can add a custom domain that'll
+41:43 automatically links to the cdns I've
+41:45 just talked about you can issue a free
+41:47 SSL certificate for it and we just have
+41:49 we have all of that within the app
+41:51 whereas if you if marketbestos go down
+41:54 the cloudfront approach uh Cloud Player
+41:56 approach sorry and you have to do like a
+41:58 separate integration for yourself we
+42:00 decided that was just unnecessary
+42:02 technical complexity which we didn't
+42:04 want to have to people to jump through
+42:05 hoops for
+42:14 I do love waffling about it please let
+42:16 me know if that was if that was what you
+42:18 were looking for
+42:27 okay can't see anything just yet uh oh
+42:30 yes yeah sorry I I always forget that
+42:33 it's like there's a little bit of a lag
+42:34 for him to hear and he's got to actually
+42:35 type and I kind of just see her in
+42:37 silence everyone else is like come on
+42:38 come on come on
+42:40 so I've got one more question
+42:43 um this is from Jack
+42:44 and he's asking
+42:47 hey mate um so he's asking if you can
+42:50 demo the countdown timer now I'm going
+42:53 to be using this recently because I was
+42:54 doing a launch for one of my I own this
+42:56 tennis website I can't remember if I
+42:58 told you about that Andy but
+42:59 um we were doing a promo uh for one of
+43:01 our consultancy products so we we had we
+43:04 had it for that it was awesome so I'd
+43:06 quite like to use that again as well so
+43:08 yeah that's the countdown
+43:10 absolutely so first of all let's talk a
+43:13 little bit about marketing Theory before
+43:14 I do the demo uh one of the best
+43:16 conversion factors you can do in your
+43:19 campaigns is to have some concept of
+43:21 scarcity or urgency obviously a
+43:24 countdown timer is all about urgency and
+43:26 you will have to take your own decision
+43:29 about like how you want to set it up
+43:32 if it's quite common with like an
+43:34 evergreen affiliate campaign
+43:36 is you want to run it in Evergreen mode
+43:38 so the time on the countdown timer
+43:41 starts relative to when they hit the
+43:43 page but you can also set up a countdown
+43:46 timer that is like globally true for
+43:48 everyone so let's say for example when
+43:50 we do a big product launch our countdown
+43:52 timers are usually counting down to like
+43:54 the close of the offer so you can either
+43:56 have it be true for everyone or it can
+43:58 be true for each individual person that
+44:00 the countdown timer is counting down
+44:03 so first of all I'm just going to show
+44:05 off one of one of converter's really
+44:06 cool things so what we're going to do is
+44:07 we're going to put a countdown timer in
+44:09 underneath these images
+44:10 so what you can do is instead of having
+44:12 to move everything around one by one you
+44:15 can hold down shift which obviously you
+44:17 can't see me doing but I can just tell
+44:18 you I am and then when you pull down
+44:20 what you're doing is you're pulling
+44:22 everything on the page down to create
+44:23 this extra space
+44:25 so then we can drag and drop our
+44:27 countdown timer on
+44:30 like that and then we can shift pull
+44:32 again to close up some of that space so
+44:34 we've now got the countdown timer like
+44:36 inserted into the page more easily than
+44:38 trying to shuffle everything around
+44:40 then from there it's a very simple case
+44:42 of you can set the mode so it's like is
+44:44 it fixed for everyone it's Evergreen
+44:46 like so a very common one is to want an
+44:49 evergreen one that's like I don't know
+44:51 we'll set it to 27 minutes and four
+44:55 seconds from when they hit the page and
+44:58 we can set the mode we can set when it
+45:00 does like on expiry we can hide the
+45:02 timer we can like redirect to another
+45:04 page we can have it kind of perform
+45:06 whatever action we want typically you're
+45:08 just going to want to hide the timer on
+45:09 an affiliate campaign like you don't
+45:11 need to be particularly clever with
+45:13 these things just the mere existing of
+45:15 like a ticking time on the page
+45:17 encourages the person to read it and
+45:19 then click through like if you if you
+45:22 can link it to the offer in some way
+45:23 it'll really help because if you can
+45:25 have like offer expiring in and then
+45:27 this is like globally true for everyone
+45:28 it makes the effects stronger but even
+45:31 if you just put a counting clock onto a
+45:33 page it will encourage more people to
+45:34 click through to the next page and your
+45:36 conversions will go up because of it
+45:38 and then again we hit publish we hit
+45:41 publish
+45:48 and we now have the new new layout of
+45:50 our images we've got the countdown timer
+45:52 all of this stuff is just like on the
+45:54 page
+45:56 and if you if you hit up that page hit
+45:58 refresh for yourselves you will see that
+46:00 countdown timer is relative to you so
+46:02 you're also seeing 27 minutes and four
+46:04 seconds so it's going to be true for
+46:06 like everyone that hits your page
+46:10 very nice
+46:13 converter is pretty full of these like
+46:15 conversion tactics it's the advantages I
+46:17 ever said like I got my start on the
+46:18 affiliate marketing industry and even
+46:20 now although like I tend to spend more
+46:22 time on the vendor side like a lot of
+46:25 the way we sell convertery is fire
+46:27 Affiliates it's still the same game like
+46:29 you know Tommy's here because he's
+46:30 affiliate selling convertery
+46:32 um so all of these tactics that just
+46:35 really help with affiliate marketing
+46:36 campaigns were just they were baked into
+46:38 convertery from day one they weren't an
+46:40 afterthought like a lot of the more a
+46:43 lot of the more enterprisey like SAS
+46:45 space ones targeting big business that
+46:47 do similar stuff to us they they have a
+46:49 lot of these features now but they're
+46:51 they're often second-class citizens like
+46:53 some of our competitors didn't have a
+46:55 countdown timer until about a year or so
+46:57 ago and it became this like afterthought
+47:00 of a thing whereas we've literally had
+47:02 countdown timers since day one because
+47:04 it's such an important part of online
+47:06 marketing
+47:08 I hope that's the demo we were looking
+47:10 for Jack
+47:11 um we had any other questions pop up
+47:13 while I've been waffling away
+47:15 I can't say at the moment I'll just oh
+47:17 yeah we do
+47:18 perfect okay I can answer this Lloyd so
+47:22 does it integrate with all or most
+47:24 native and traffic sources such as our
+47:26 brain tabula yes it does because I'm
+47:28 doing it at the moment easy answer
+47:33 volume which a lot of vulnerabilities
+47:36 don't so
+47:38 um click funnels for instance they won't
+47:39 integrate with volume I mean you'd have
+47:41 a hard time integrating them with a few
+47:43 different places to be honest but
+47:44 um volume is completely compatible uh
+47:47 with convertery which I love because it
+47:48 just makes things so much easier for me
+47:50 and that isn't the plug for volume but I
+47:53 like to tell people sort of honestly
+47:54 what I am using so yeah I am using
+47:56 volume I'm using convertery
+47:59 um very good place to go when it comes
+48:00 to tracking
+48:01 okay yeah we do our best to be
+48:04 compatible with everything we can like
+48:08 we we consider ourselves part of a bit
+48:11 of a wider ecosystem like I would love
+48:14 to be a traffic Source a traffic tracker
+48:16 an affiliate Network
+48:18 um my own autoresponder like my own
+48:20 webinar platform I'd love to be all of
+48:22 these things in the digital marketing
+48:24 space but that's that's quite a big
+48:25 Challenge and that's probably that's
+48:27 unlikely to ever happen so we exist
+48:30 alongside these other companies we want
+48:32 you to be able to use as many tools as
+48:34 you possibly can like I know a lot of
+48:36 like people doing affiliate marketing on
+48:38 this call are more focused on the like
+48:40 getting clicks through to a sales page
+48:41 to start with not list building but as
+48:44 for example we integrate with tons of
+48:48 the biggest autoresponders directly
+48:50 ourselves then if that doesn't work
+48:53 we've got a zapier integration and then
+48:55 if that doesn't work we've got our own
+48:56 like imported form from anywhere
+48:58 integration because it's just so
+49:01 important to us that whatever tools you
+49:03 already use should work in convertry the
+49:06 same is we have an HTML element which is
+49:08 quite rare because it's quite hard to
+49:10 make work on a custom landing page but
+49:12 you can get just about any widget off
+49:14 any other system that you want to work
+49:16 in convertery into that custom HTML
+49:18 element to work the way you do which is
+49:21 as I say rare for a landing page builder
+49:23 like ourselves but we we give you that
+49:25 ability to work with
+49:27 I'm not going to sit here and tell you
+49:28 it works with absolutely everything out
+49:30 there it's soft of course it doesn't but
+49:33 we're we're pretty widely successful
+49:34 with that thing it's it's a concept
+49:36 that's been baked in since day one
+49:39 fantastic so we've got 10 minutes left
+49:42 um guys what I'd like to do is just open
+49:44 this up to any sort of general questions
+49:46 at the moment that you might have for me
+49:48 or Andy
+49:49 um so if you pop those in the chat now
+49:52 I've got a couple lined up for him my
+49:55 side and um yeah just just get those
+49:58 over to us guys and we would love to
+49:59 help you out with those
+50:01 anything at all just
+50:04 while you guys uh type in questions I
+50:06 mean to be fair I'm happy to answer
+50:08 questions about other stuff as well and
+50:10 we don't I'll hang around past the hour
+50:12 if people want to ask more marketing
+50:13 questions I love this stuff
+50:16 um one of you guys type stuff into the
+50:17 chat box um I've just got my final like
+50:19 speed slide I said there were you know
+50:22 three key things with it and I just want
+50:25 to explain kind of how we go further as
+50:28 converterate so what more you get
+50:32 in the early days we were a little bit
+50:34 focused on and please keep in mind this
+50:36 was five or six years ago now but we
+50:38 were a little bit overly focused on just
+50:40 being good at the software
+50:42 and not good at
+50:45 like just everything else that goes with
+50:47 it and over the years we've taken that
+50:49 super seriously like yeah I'm not gonna
+50:53 sit here and pretend it's altruistic
+50:55 like
+50:56 I I want to sell you subscription
+50:58 software and the best way to sell your
+50:59 subscription software is for the soft
+51:01 both the software and the support around
+51:03 it to feel amazing so yeah it's you know
+51:07 I will talk it up but that's clearly my
+51:09 motivation
+51:10 what we do is we provide personalized
+51:13 help on a free onboarding call so when
+51:15 you sign up for a free trial as I say
+51:17 you don't have to don't have to pay for
+51:18 this like you get a free trial the free
+51:19 on boarding call happens within a 14-day
+51:21 period you'll get an email about how to
+51:23 book it this isn't this isn't some
+51:25 upsell we're going to try and ding you a
+51:26 load of money for you can just have this
+51:27 for free and then cancel the trial if
+51:29 you want and we've what I've done is
+51:32 I've got the people that run our
+51:33 onboarding calls to go through Tom's
+51:35 training in detail so you won't just be
+51:37 getting a converterate onboarding call
+51:39 they'll be able to talk to you about
+51:40 like how to apply those Concepts that
+51:43 are in that training how to build a
+51:44 landing page that's based on what he
+51:46 talks about in that training as well
+51:49 um we've also got a really expansive
+51:51 knowledge base so over the years in fact
+51:53 let me just uh pull it up
+51:55 uh as you can see from the optical
+51:58 account side we built this up over the
+52:00 years there is an article in here for
+52:02 the kind of like self-starter the person
+52:03 that doesn't want to like wait to talk
+52:05 to another human being you just want to
+52:06 look up the answers for yourself the
+52:08 answers are probably in there like 90 of
+52:11 the time like we built this up over
+52:12 years and years and years of getting
+52:14 these questions and every time we get a
+52:16 question that we don't already have an
+52:17 article for we write the article for it
+52:19 so the next guy can just find it
+52:21 then obviously if you like can't find it
+52:26 you can email support converter.com and
+52:28 we have a team of people that's pretty
+52:30 close to 24 7. now there's a few weekend
+52:32 hours we don't cover uh but we're we're
+52:34 certainly 20 24 5 and quite a lot of
+52:37 weekend cover too so there should be
+52:39 someone on the support desk basically
+52:41 whenever you're working so if you get
+52:43 stuck if you can't find the answer if
+52:44 you want to be like how the hell do I
+52:46 make the button red I can't find it like
+52:48 even if it's like you know not wanting
+52:50 to insult anyone we've all done it right
+52:51 you're like you you want the answer to
+52:53 the dumb question right and you're sat
+52:55 there going like please just tell me how
+52:56 to make the button red like you can send
+52:58 that question to support and someone
+52:59 will be there to help you out to fix it
+53:01 and something I didn't put on this slide
+53:03 is we've also got a really active
+53:04 Facebook group which I mean you're
+53:06 welcome to join even if you don't join
+53:07 convertery but it's where like a load of
+53:10 our team are in there there's a lot of
+53:11 our like converter power users in there
+53:13 there's just a there's thousands of
+53:14 thousands of people at this point who
+53:16 are all they're happy to talk marketing
+53:18 they're happy to talk convertery they're
+53:19 happy to help you out like a lot of the
+53:21 time these days like the community beats
+53:23 us to answering the question so you you
+53:26 can as weird as it is to say you can
+53:28 often get like faster help from people
+53:30 that I don't even pay to help you than
+53:33 you can from the people that I pay to
+53:34 help you
+53:35 um it's a really cool resource so and as
+53:39 I say almost all of this stuff that's
+53:40 going to be available all part of the
+53:41 free trial
+53:47 what what's the group called Andy so
+53:48 people can can join me it's called
+53:50 convertery Clubhouse
+53:53 if you search convertery on Facebook uh
+53:56 it'll be one of the top group results
+53:57 should be the top group result
+53:59 uh right as I say please please come and
+54:01 join us even if you don't take advantage
+54:04 of the converter trial today a or at all
+54:06 come and join us in the group the lens
+54:07 cool marketing stuff
+54:09 fantastic that sounds like a great
+54:11 opportunity guys so get stuck in there
+54:13 get networking with people as well
+54:16 cool okay a final pitch likes on the
+54:19 market of course I've got a pitch slide
+54:21 but before we get on to that uh talk
+54:22 talk to me about your questions what
+54:24 what stuff would you guys like to know
+54:25 and whatever
+54:28 yeah we've got a question from Jack
+54:31 um
+54:33 can you share typical page load times
+54:35 for the USA
+54:37 ah yes I can here's one I prepared
+54:39 earlier
+54:40 uh oh sorry this is uh like it's coming
+54:43 from the uh the test servers in Canada
+54:45 on this one the us but it's it's very
+54:48 representative so this is literally uh
+54:51 this page that my team built out
+54:54 literally this morning using the exact
+54:56 template and approach that we're
+54:58 teaching you to do and I've run it
+54:59 through GT metrics so you can see how
+55:02 well it scores how fast it loads
+55:05 um if you and please if you want to
+55:07 recreate this yourselves
+55:09 um it's uh gtmetrics.com
+55:12 um it's an excellent analysis tool it's
+55:14 considerably better than Google's page
+55:16 speed insights which has got just worse
+55:19 and worse over the years where Google's
+55:22 own properties now score really badly on
+55:24 its own speed testing because it tests a
+55:26 load of stuff that just is irrelevant uh
+55:29 we don't really know why they do it uh
+55:30 but GT metrics is amazing and will give
+55:33 you just like great insight
+55:37 great stuff right I apologize guys if
+55:40 there's any noise my side because I've
+55:41 just had the hail come down I don't
+55:43 what's the weather like in London Andy
+55:45 uh we're we're not sunny but we're
+55:48 certainly not there's no rain or hail
+55:49 and I think you're okay like I certainly
+55:51 didn't hear any like hail picked up on
+55:53 the mic
+55:54 out of nowhere well nothing would
+55:57 surprise me with the British weather
+55:58 that's for sure
+55:59 um
+56:00 um so Lloyd's asking about uh does
+56:02 converter have an API
+56:05 uh so yes and no it depends like we have
+56:09 API Integrations with a load of
+56:11 third-party services we have web hooks
+56:14 come from things like opt-ins and our
+56:15 carts uh you can't build Pages via an
+56:19 API
+56:20 we have a custom HTML element for like
+56:24 getting other people's stuff onto our
+56:26 Pages which for a technical person it's
+56:29 not technically an API but that's often
+56:30 what people mean when they say it so I'm
+56:33 kind of including it in the list
+56:35 um if you please feel free to ask me
+56:37 like anything specific like I would like
+56:39 to try and Achieve X or
+56:41 um like does it have an API to do why
+56:43 like I'll happily talk you through what
+56:44 things we have and what we don't
+56:46 um if there's something more specific
+56:49 okay so I'll let that question come in
+56:52 if there is anything to add on that
+56:54 um I've got a couple of questions for
+56:55 you Andy um did you want to lead ahead
+56:58 with anything before I ask you those or
+56:59 yeah the Q a section is is my absolute
+57:03 favorite part so please fire away
+57:05 great so I think it'd be really
+57:07 beneficial although we've kind of got
+57:09 Affiliates sort of in the audience here
+57:11 what what is actually running a software
+57:13 company look like day to day and what
+57:15 advice could you give to someone looking
+57:17 to start maybe their own software
+57:18 product
+57:20 oh yeah sure that's that's a rare
+57:22 question I don't normally get something
+57:23 like that so
+57:25 probably the the best piece of advice I
+57:27 can start with and this is this is true
+57:30 of whether it's affiliate marketing or
+57:32 you want to be a vendor on ClickBank or
+57:34 you want to run a SAS company like get
+57:37 really clear on
+57:39 the problem you solve and who you solve
+57:41 it for
+57:42 that's
+57:45 that took me a while to wrap my head
+57:46 around and even starting convert tree
+57:48 like we had these we have half of it we
+57:50 definitely had a pretty key core idea of
+57:52 like the problem we were solving we were
+57:55 less clear early on
+57:56 like we had a lot of conversations that
+57:59 sounded like
+58:00 what problem did we solve well we're a
+58:02 funnel Builder we solve the problem but
+58:04 like people want to build funnels who do
+58:06 we solve that for well we solve for
+58:07 people that want to build funnels and it
+58:09 was this very like
+58:10 technically true like I didn't know I
+58:12 don't think anything I've said there is
+58:13 a lie but it's it's a statement that
+58:16 doesn't necessarily help you and more
+58:19 recently we've got a lot clearer about
+58:21 for example one of our big Target
+58:23 audiences is affiliate marketers like
+58:25 making it as easy as possible to get
+58:27 these very templatized Pages built as
+58:30 quickly as possible
+58:32 um targeting like full-on vendors that
+58:35 may be on the other side of the
+58:36 affiliate marketing equation so they can
+58:38 build their Pages like their long form
+58:40 sales Pages as quickly as possible
+58:42 but getting getting clearer on what
+58:45 problem you solve and where you solve it
+58:46 is pretty key and then getting whatever
+58:50 it is to Market as quickly as possible
+58:52 in the simplest form uh this is this is
+58:55 something
+58:56 is this something I think we did really
+58:58 well with convertery so we did there was
+59:00 obviously a three-month initial build
+59:01 period where we didn't have enough to
+59:04 show people we didn't have like anything
+59:07 there but even then we had like a group
+59:10 on Facebook called the software Shack
+59:12 where we invited a load of people in our
+59:14 industry into the group to just come and
+59:17 see what we did and like lots of people
+59:19 wanted to know how I built software like
+59:21 I've got a good reputation for it so we
+59:23 kind of like built it out in the open
+59:24 and then even though we wouldn't launch
+59:27 it until like about seven months in
+59:29 after those first three months we
+59:31 already started onboarding some of those
+59:33 people as beta users so they were able
+59:35 to play around with it they were able to
+59:37 mock me profusely for all the things
+59:38 that didn't work they were able to like
+59:40 laugh at all the features we didn't have
+59:41 but it was very public and very
+59:44 iterative so although it's like every
+59:46 time I had to sit on a Skype call with
+59:47 someone pointing out all the things we
+59:49 didn't have that felt just absolutely
+59:51 essential that was core feedback for me
+59:54 about things that the market saw is
+59:55 absolutely essential and what that meant
+59:58 was seven months in when we did that
+59:59 really big
+1:00:00 product launch convertery just had so
+1:00:03 many of the things people wanted it
+1:00:04 wasn't things that I thought they wanted
+1:00:06 it was literally things that other real
+1:00:08 human beings had sat down with me and
+1:00:10 said I want X
+1:00:12 and I think that made such a big
+1:00:14 difference to us
+1:00:16 oh 100 I love how you listen to the
+1:00:18 customer as well I mean that's saying
+1:00:19 Jeff Bezos has basically said is behind
+1:00:21 his success as well
+1:00:23 um yeah that's great to hear so what was
+1:00:26 the point you thought you were really on
+1:00:27 to something Andy with convertery
+1:00:30 uh so
+1:00:32 just just after we finished the initial
+1:00:35 product launch like we have inklings on
+1:00:38 the way through while we were building
+1:00:39 it while we were getting customer like
+1:00:41 engagement uh like as I say those beta
+1:00:44 users like there were a few more BT
+1:00:46 users than for past things I built there
+1:00:49 was just that like every single thing we
+1:00:51 did there was just a bit more interest
+1:00:53 than I was expecting so they gave me
+1:00:55 like hints
+1:00:56 then we did the launch week we sold over
+1:00:59 three quarters of a million dollars of
+1:01:01 it in six days
+1:01:03 um but I basically didn't sleep well I I
+1:01:08 hadn't slept for like probably months in
+1:01:10 the run-up to it and then I didn't sleep
+1:01:12 at all during that that week I think I
+1:01:15 collapsed on the floor for a few hours
+1:01:16 at one point
+1:01:18 um so it I didn't have time for it to
+1:01:21 settle in during that week then there
+1:01:22 was a moment afterwards when I
+1:01:24 decompressed and I was like holy
+1:01:27 like that was so much bigger than I ever
+1:01:30 thought it could possibly be amazing
+1:01:33 that was when we really started to think
+1:01:35 like this is
+1:01:36 this is big this is bigger than we
+1:01:38 thought it was going to be like we were
+1:01:40 we've been in the game for a while we we
+1:01:42 were confident it was going to be
+1:01:43 successful we had no idea it was going
+1:01:45 to be this successful
+1:01:48 amazing
+1:01:49 sorry just uh to tell one last bit of
+1:01:52 the story then the over it the follow-up
+1:01:55 point where it really really really hit
+1:01:58 in was so what normally happens for
+1:02:01 anyone on the call that doesn't know is
+1:02:03 a lot of software gets launched like
+1:02:05 this with a lifetime deal for early
+1:02:07 adopters we we did that in 2016 July
+1:02:10 2016 for six days only you could get
+1:02:13 convertry from that back then you've got
+1:02:14 a lifetime license for 300 bucks whoa we
+1:02:18 don't sell it for that anymore and most
+1:02:20 importantly we never sold it again after
+1:02:22 those six days and it was because so
+1:02:25 many products on the market just go back
+1:02:27 on a lifetime deal two months later
+1:02:29 because they can't sell it for recurring
+1:02:31 goes back on Lifetime deal
+1:02:33 and then that's it forever so everyone
+1:02:35 was waiting and waiting and there
+1:02:37 weren't that many sales for a few months
+1:02:40 after that launch because everyone
+1:02:42 assumed I was lying when I said we were
+1:02:44 never doing it again and then all of a
+1:02:46 sudden the floodgates opened and it was
+1:02:48 like people suddenly got it I was not
+1:02:51 lying I was holding firm like I cannot
+1:02:54 run a company like of this complexity on
+1:02:57 a lifetime deal it doesn't work I will
+1:03:00 go out of business you will lose access
+1:03:01 to the software you've paid for it
+1:03:03 doesn't work I have to charge recurring
+1:03:05 for it and what that meant is that
+1:03:08 suddenly the market got it they
+1:03:10 appreciated the point and we suddenly
+1:03:12 started to see a regular flow of people
+1:03:14 just paying us recurring money and that
+1:03:17 that was absolutely life-changing not
+1:03:19 just for me but for the product as well
+1:03:21 because that's what lets me employ a
+1:03:23 team of 20 people that provide nearly 24
+1:03:26 7 support that provide updates literally
+1:03:28 every single Tuesday every Tuesday since
+1:03:31 we've launched even we had one Chris
+1:03:33 Christmas day that was a Tuesday and a
+1:03:35 developer put something live because he
+1:03:37 was like I don't celebrate Christmas in
+1:03:38 December I celebrate it in January I'll
+1:03:40 be at work so I will just deploy the new
+1:03:42 features so and we can't make that kind
+1:03:45 of progress off
+1:03:47 300 bucks one time that's just not how
+1:03:49 this game works and the software is so
+1:03:52 much better for it
+1:03:54 great well well thanks for answering all
+1:03:56 of those Andy that's amazing and if
+1:03:58 there are people out there that you know
+1:04:00 I hope you have been inspired by that on
+1:04:01 on the software front as well it's an
+1:04:03 amazing story
+1:04:05 um so I'm glad we could get a bit deeper
+1:04:06 into Andy's story there as well I also
+1:04:08 like the fact you had your background in
+1:04:10 affiliate marketing to start with Andy
+1:04:12 um I often find a lot of people do
+1:04:14 um that sort of go into like the vendor
+1:04:17 side of things whether that is software
+1:04:18 or
+1:04:19 um on the product front
+1:04:21 um in terms of like getting other
+1:04:22 Affiliates to promote their offers but
+1:04:24 yeah it's a great story and I think one
+1:04:27 of the key takeaways today
+1:04:29 um that I certainly um taken away and I
+1:04:31 think other people should as well it's
+1:04:33 all the dimensions to speed
+1:04:35 so you know whether that's people's
+1:04:37 attention span and needing the fast
+1:04:39 loading speed people's attention spans
+1:04:41 are getting shorter and shorter every
+1:04:42 single day myself included when it comes
+1:04:45 to loading swing on Netflix
+1:04:48 um but also just the fact that traffic
+1:04:49 sources will crawl your pages so you're
+1:04:52 going to be served um a better level of
+1:04:55 service from Facebook in my opinion
+1:04:56 you're going to get better tracks in the
+1:04:57 algorithm if you've got a faster loading
+1:05:00 speed so very very very important and I
+1:05:03 know convert tree are all about
+1:05:04 absolutely rapid loading speed on the
+1:05:07 pages and as Andy's shown you you know
+1:05:09 you can go and you can test it and you
+1:05:10 can see for yourselves and I'd encourage
+1:05:12 you to go out and test it against your
+1:05:14 landing page facility at the moment
+1:05:16 they've got the free trial take
+1:05:18 advantage of that
+1:05:19 um after this webinar today I'm going to
+1:05:21 be emailing all of you with a dedicated
+1:05:23 link for the 14 day free trial so look
+1:05:25 out look out for that anything to add
+1:05:28 Andy
+1:05:29 uh yes I just wanted to do a really
+1:05:31 quick summary as I say this I didn't
+1:05:33 this isn't building up to some like two
+1:05:34 thousand dollar package it's not like
+1:05:36 some over-the-top like thing like that
+1:05:38 but I just want to do a really quick
+1:05:39 quick summary of everything you're
+1:05:41 getting so when you when you claim your
+1:05:43 free trial make sure you do it through
+1:05:44 Tom's link so we can give you the extra
+1:05:46 like templates and so on but you you
+1:05:49 will get like it's a full 14 day free
+1:05:51 trial you get unlimited use of the
+1:05:52 template uh for building your landing
+1:05:54 pages according to Tom's teaching uh
+1:05:56 we've got hundreds of other templates as
+1:05:57 well if you want to use them you'll get
+1:05:59 a free onboarding call with a member of
+1:06:01 my team so you can sit down you can ask
+1:06:02 them questions about like like how do I
+1:06:05 fill in this slot on this page or like
+1:06:06 you know I'm trying to promote this
+1:06:07 offer and I don't I don't get what the
+1:06:10 audience quite is like can you help me
+1:06:12 figure that out or how do I make the
+1:06:14 button red whatever it whatever it is
+1:06:16 like you need help with everyone's good
+1:06:17 at some aspects and bad at others and
+1:06:19 that call is there to help you over
+1:06:21 whatever those humps are and then even
+1:06:23 after you've had that call we've got
+1:06:24 dedicated customer support we've got the
+1:06:26 in-depth knowledge base the Facebook
+1:06:28 group
+1:06:29 and the the exciting like thing that I
+1:06:32 always say for last and this list is the
+1:06:33 page importer so what you're able to do
+1:06:36 with convertery is point it at just
+1:06:38 about any page on the internet and it
+1:06:41 will import it into convertery for you
+1:06:43 so if you see an affiliate offer that
+1:06:45 please don't rip off people like this
+1:06:47 isn't what it's for but if you see a
+1:06:49 really good page out there that you want
+1:06:51 to make into a template for yourself you
+1:06:53 can run it through our page importer now
+1:06:55 that doesn't that doesn't have to be a
+1:06:56 convertery-based page that can be any
+1:06:58 page so you can see the offer out there
+1:07:01 you can see the kind of style you like
+1:07:03 you can import it you can edit it up in
+1:07:05 convertery often it will load faster
+1:07:07 just for being imported into it perhaps
+1:07:09 you're already using you've got a
+1:07:10 WordPress site and you've got a landing
+1:07:11 page built on it you'll be able to
+1:07:13 import that landing page into convertery
+1:07:15 mess around with it and see how much
+1:07:17 faster it loads again all within a 14
+1:07:19 day free trial
+1:07:20 um I hope you try it I hope you love it
+1:07:23 I really do
+1:07:25 even just the page import a facility in
+1:07:27 itself guys is worth the money in my
+1:07:30 opinion that that's fantastic
+1:07:32 um the other thing I just want to add is
+1:07:34 with anything Technical and this is sort
+1:07:36 of just a general internet marketing tip
+1:07:37 really anything technical whether that's
+1:07:39 hosting whether it's you know landing
+1:07:41 page stuff whether it's websites
+1:07:43 um you've you've got to take advantage
+1:07:44 of the support
+1:07:45 um and I think certainly when I was
+1:07:47 getting started I didn't come from a a
+1:07:50 techie background like Andy did but um
+1:07:52 even just having very basic questions
+1:07:54 about hosting I mean I mean that's all
+1:07:56 taken care of with convert you without
+1:07:57 cloud hosting which is which is amazing
+1:07:59 but the support is the main thing
+1:08:02 um if you if you you know if you will
+1:08:03 have questions when you get started so I
+1:08:06 think having access to good quality
+1:08:07 support is you know that is the best
+1:08:10 thing you could ever want really when it
+1:08:11 comes to this stuff so that's really
+1:08:13 reassuring to hear Andy you know you've
+1:08:15 got a free onboarding call and you've
+1:08:17 got that dedicated custom support as
+1:08:18 well I think that's excellent
+1:08:20 cool thank you we've put a lot of time
+1:08:22 into like trying to work out like how we
+1:08:26 can get people up to speed as quickly as
+1:08:27 possible like what it is that like they
+1:08:30 need help with and and honestly what the
+1:08:31 thing everyone always tells us is it's
+1:08:33 like if there's no there's no one thing
+1:08:36 that every single person needs help with
+1:08:37 like some people are like amazing sales
+1:08:40 people and have the technical skills of
+1:08:42 roadkill some people are like super
+1:08:44 technical and like would struggle even
+1:08:48 to fill in the headline template that
+1:08:50 I've got here like it doesn't matter
+1:08:52 like how extreme it is like what you're
+1:08:55 good at what you're bad at we want to
+1:08:57 make sure the resources are there to
+1:08:58 help you over those humps
+1:09:00 because again I want you to keep using
+1:09:02 the software I want you to start paying
+1:09:03 me money like that's like I make no no
+1:09:05 secret of that side of it
+1:09:07 um but I know you won't do it like if
+1:09:08 you take one look at the software and
+1:09:09 you can't use it you can't get help with
+1:09:11 it like you ain't never pay me money if
+1:09:14 that's true
+1:09:16 well I think that's a lovely point to
+1:09:18 wrap up on yeah and you've been amazing
+1:09:19 Andy I know you've really you've
+1:09:21 actually gone above and beyond I think
+1:09:22 what I was initially expected from the
+1:09:24 webinar as well so we really appreciate
+1:09:26 all of those markets and tips in there
+1:09:28 too
+1:09:29 um so guys what are you waiting for I
+1:09:31 will send you an email out today uh with
+1:09:33 the free trial
+1:09:35 um and I really hope you'll move forward
+1:09:37 with that it is something I'm using
+1:09:38 myself anything I recommend I only
+1:09:41 recommend it because I'm actually using
+1:09:42 it myself
+1:09:43 um and um I hope you take advantage of
+1:09:45 that trial and the templates there's way
+1:09:48 more templates on there as well than you
+1:09:49 could possibly imagine there's there's
+1:09:51 hundreds literally so if you wanted to
+1:09:53 create your own vsl for instance run off
+1:09:55 you could do that
+1:09:57 um there's more traditional affiliate
+1:09:58 templates uh there's e-commerce type
+1:10:00 things as well
+1:10:02 um so great okay well Andy I will leave
+1:10:04 you there
+1:10:05 um thank you so much for your time
+1:10:06 really appreciate you um and our
+1:10:08 connection as well I'm really grateful
+1:10:10 for that and I look forward to seeing
+1:10:13 you all soon guys thanks for attending
+1:10:15 and take care have a great Wednesday
+1:10:17 cool thank you very much everyone in
+1:10:19 fact thanks for hosting me Tom
+1:10:21 no worries okay I'll speak to you soon
+1:10:23 guys see you later bye

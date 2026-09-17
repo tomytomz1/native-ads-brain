@@ -1,0 +1,238 @@
+Title: How I Actually Use AI In Affiliate Marketing (No Hype)
+URL: https://www.youtube.com/watch?v=GfwWVkj4uqk
+Video ID: GfwWVkj4uqk
+Language: en
+Caption type: auto-generated
+
+---
+
+0:00 Hi guys, Tom Bell here from Revenue
+0:01 Tactics, your go-to affiliate marketing
+0:03 channel. In today's video, I'm going to
+0:05 show you how I actually use AI in
+0:06 affiliate marketing with no hype. No AI
+0:09 will replace your business, none of
+0:10 that. Because the truth is AI is a
+0:12 multiplier. If you already have a
+0:13 process, it makes you faster and
+0:15 sharper. If you don't have a process, it
+0:17 just helps you make more random stuff
+0:18 faster. Quick one. If you like practical
+0:21 affiliate marketing content that's based
+0:22 in reality, subscribe. I'm going to keep
+0:24 these videos focused on what actually
+0:25 moves the needle. All right, here's how
+0:27 I use AI the real way, especially for
+0:29 native ads. The core principle, AI is an
+0:32 assistant inside a system, not the
+0:34 system. The biggest mistake I see is
+0:35 people trying to use AI to replace
+0:37 skill. They want AI to pick their offer,
+0:40 build the funnel, write the ads, make it
+0:42 convert basically, and do the job for
+0:43 them. That's not what AI is good at.
+0:45 What AI is brilliant at is speeding up
+0:47 the parts of the business that are slow
+0:49 and repetitive. Brainstorming and
+0:50 variation, refining and rewriting,
+0:53 producing creatives, that kind of thing.
+0:54 So the way I think about AI is simple. I
+0:57 bring the strategy. AI brings the speed.
+0:59 AI helps me think in angles, but I still
+1:02 choose what's worth testing. The first
+1:04 place AI helps is angle generation. Not
+1:06 write me a full campaign. More like give
+1:08 me 25 ways to frame this desire, fear,
+1:10 or pain point and make them distinct.
+1:12 Because native ads lives and dies on why
+1:14 someone clicks. So, I'll feed AI the
+1:16 offer category, the audience, what the
+1:18 offer promises, the emotional core
+1:20 problem, and then I'll ask for angles in
+1:22 buckets like pain and frustration,
+1:24 hidden cause, curiosity, identity,
+1:26 simple to do, that kind of thing. But
+1:28 here's what matters. I'm not looking for
+1:30 finished copy. I'm looking for angle
+1:32 seeds. Then I pick the best few and
+1:34 apply my own judgment because the market
+1:36 doesn't reward clever writing. It
+1:37 rewards emotional relevance. AI image
+1:39 generation is a genuine superpower for
+1:41 native. Now, AI is not just for ideas.
+1:44 Once I've got an angle, AI image
+1:45 generation is one of the most valuable
+1:47 uses of AI in affiliate marketing
+1:49 because with native ads for a lot of
+1:50 paid traffic generally, it's a creative
+1:52 game. You can have the best offer in the
+1:54 world and the best advertorial, but if
+1:55 the image doesn't stop the scroll, you
+1:57 don't get a chance. So, what I do is
+1:59 take one angle and build an entire
+2:01 creative pack around it using tools like
+2:02 Grock, chat GBT, and others. And the
+2:05 goal isn't beautiful. The goal is
+2:06 believable. Native creatives tend to
+2:08 work best when they look like they
+2:09 belong in the feed. candid, slightly
+2:11 imperfect, editorial, phone photo vibe
+2:14 almost, not glossy, definitely not a
+2:16 stock photo, and something that doesn't
+2:18 look like traditional advertising is a
+2:19 really great way to go. Once I've got
+2:21 some ads in place, I then test them like
+2:23 a media buyer. Same targeting, same bid
+2:25 structure, same headline set, and let
+2:27 the market tell me which visual
+2:28 expression wins. AI lets me generate 20
+2:31 to 50 usable variations quickly, and
+2:33 that speed compounds over time.
+2:34 Something else that I do with AI is feed
+2:36 it my copy framework and generate
+2:38 variations. Now, here's where AI becomes
+2:40 more than creative inspiration. I can
+2:42 supply an AI tool with my copy
+2:44 framework, the same framework I teach
+2:46 inside my coaching program, and have it
+2:47 produce structured variations that still
+2:49 follow the rules of what actually works.
+2:51 Because most people using AI for copy
+2:53 get generic results for one reason.
+2:54 They're asking it to write a native ad
+2:56 with no structure. Whereas, if you give
+2:58 the tool your framework, your sequence,
+3:00 your constraints, your tone, it stops
+3:02 guessing. So, what I'll do is give AI
+3:03 the angle, the audience, the author
+3:05 type, my framework template. Then I
+3:07 might ask for 15 headline variations
+3:09 that keep the same emotional mechanism
+3:10 but change the framing. Maybe 10 sub
+3:13 headline variations if I need them. Or
+3:15 maybe five to 10 curiosity opens for
+3:17 arvtorial intros. Maybe even three to
+3:20 five belief shifts that remain
+3:21 compliant. Just a few ideas there. And
+3:23 here's the key. I'm not using AI to
+3:25 replace thinking. I'm using it to
+3:26 multiply output without drifting away
+3:28 from the strategy. So instead of writing
+3:30 30 headlines by hand, I can create a
+3:32 strong batch quickly and then keep the
+3:34 ones that I like best because AI will
+3:36 always produce some fluff. You're always
+3:37 going to get those ones that don't come
+3:38 out well. If you've got a framework, it
+3:40 gives you a huge edge. You'll get volume
+3:42 of ideas without losing quality. I'll
+3:44 also optimize the AI over time using a
+3:46 memory function. This is something most
+3:48 people don't do, and it's why they get
+3:49 inconsistent results. If you're
+3:51 constantly starting from scratch with
+3:52 AI, you're basically training a new
+3:54 assistant every day. Instead, I prefer
+3:56 to use a house style and let AI learn
+3:58 what I want. So, over time, like with
+4:00 chat GPT Plus, I'll use memory style
+4:02 prompts and consistent instructions like
+4:04 the tone I want, the kind of claims I
+4:06 want to avoid, the compliance
+4:07 boundaries, the typical structure of my
+4:09 native ads and pre-sales, words I don't
+4:11 like, the way I frame curiosity. Lots of
+4:13 things you can add in there, guys. But I
+4:15 want these to be more aligned with how I
+4:17 actually write. It's basically like
+4:18 training a junior copywriter or
+4:20 assistant, except it works instantly and
+4:22 it doesn't forget guidelines if you set
+4:23 it up properly. This is a real
+4:25 compounding benefit. AI isn't just
+4:27 saving you time today. It gets better at
+4:29 saving you time in the future as well.
+4:30 Also, AI helps me tighten pre-sale pages
+4:33 without losing trust. Another way I like
+4:35 using AI is for polishing. I'll write a
+4:37 landing page draft myself. Then I'll use
+4:39 AI to tighten the structure, remove
+4:41 waffle if there is any, simplify
+4:43 sentences, and improve the clarity. But
+4:45 I'm careful with this. I don't want AI
+4:47 to make it sound like a sales letter
+4:48 from 2009, for example. Native audiences
+4:51 punish that. So, I'll instruct it to
+4:52 keep it grounded, keep it natural, keep
+4:54 it compliant, and make it sound like a
+4:55 real editorial piece. AI is brilliant at
+4:58 turning a rough draft into a cleaner
+4:59 draft, as long as you don't let it turn
+5:01 everything into glossy marketing
+5:02 language. AI can also be really helpful
+5:04 with analysis as a hypothesis machine,
+5:06 not a decision maker. I'll feed in the
+5:08 key metrics, CTR by angle, CPC, pre-sale
+5:11 engagement, conversion rate. Then you
+5:13 could ask AI to help with what explains
+5:15 high CTR but low conversion rate, for
+5:17 example. What explains low CTR but
+5:19 strong conversion. And I treat it
+5:20 answers like a brainstorming partner. AI
+5:22 is not the boss here. I'm the boss. The
+5:24 boss is the data. And AI suggests I
+5:27 validate with tests. Finally, AI can
+5:30 also be really useful for scaling your
+5:31 operation or for the boring stuff that
+5:33 makes you more money over the long term.
+5:35 Checklists, creative testing docs,
+5:37 frameworks, avitorials, maybe even
+5:39 training docks for a VA or a team
+5:40 member. Because if you're trying to
+5:42 scale, consistency matters more than
+5:43 intensity. And AI is great for that.
+5:45 It's great at taking what's in your head
+5:47 and turning it into repeatable
+5:48 processes. And that's how you stop
+5:50 relying on motivation and start relying
+5:51 on systems. So what don't I use AI for?
+5:54 So just to keep this grounded, I don't
+5:56 use AI to blindly pick offers without
+5:58 using human judgment, create campaigns
+6:00 end to end without review, generate
+6:02 anything that risks compliance lines,
+6:04 replace tracking and testing. That's
+6:06 really important because AI can
+6:07 accelerate you, but it can also
+6:09 accelerate you in the wrong direction if
+6:10 you don't have a framework. So if I was
+6:12 to give you my simple no hype summary,
+6:14 this is how I'd summarize it. AI helps
+6:16 me generate more variations without
+6:18 losing structure. AI helps me create
+6:20 realistic native images faster than any
+6:22 other method. AI helps me stay
+6:24 consistent by learning my framework and
+6:26 preferences over time. And AI helps me
+6:28 move faster through testing, which is
+6:29 where the money is. AI doesn't replace
+6:31 affiliate marketing skill. It removes
+6:33 friction. If you want the full blueprint
+6:35 for how I run these campaigns, offer
+6:37 selection, angles, pre-sales, testing,
+6:39 tracking, scaling, that's inside my
+6:41 Native Ads Masterclass video course,
+6:42 which you can check out in the link
+6:43 below. And if you want hands-on help
+6:45 applying my framework and building
+6:46 campaigns with it, that's exactly what
+6:48 my one-on-one coaching is for. And I can
+6:50 personally work with you to build your
+6:51 own affiliate business. And of course,
+6:53 I'll teach you all about how to leverage
+6:55 AI, too. So, drop me a comment, guys.
+6:57 Tell me, what's your biggest AI
+6:58 challenge right now? What are you using
+7:00 it for? I'd love to hear. And I look
+7:01 forward to hearing from you. Bye for now
+7:03 and I'll see you in the next
